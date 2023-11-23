@@ -1,0 +1,259 @@
+{
+    "classes": [
+        "DIR_CALLE_ALTURA",
+        "DIR_INTERSECCION",
+        "DIR_ENTRE",
+        "DIR_OTROS",
+        "FOT ",
+        "FOT_RES_COM",
+        "FOT_SERVICIOS",
+        "FOT_PREMIOS",
+        "DIMENSIONES",
+        "NOMBRE_BARRIO",
+        "CANT_FRENTES",
+        "PLANTILLA",
+        "IRREGULAR",
+        "DIR_CALLE_ALTURA_ENTRE_CALLES",
+        "DIR_CALLE_ALTURA_INTERSECCION",
+        "DIR_LOTE",
+        "URBANIZACION_CERRADA",
+        "PREVENTA"
+    ],
+    "annotations": [
+        [
+            "Excelente ubicación en el centro de San Isidro a metros de colegios y arterias principales. Terreno para construir edificio.  Lote de  10.5 X 27.62 (290 m2) - Zona RMA2C. FOT 1.8 FOS 0.6.  Actualmente hay dos locales y un ph de 3 ambientes construido al fondo.",
+            {
+                "entities": [
+                    [
+                        135,
+                        147,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        171,
+                        178,
+                        "FOT "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Corredor Responsable: Laura Palini CPI 7752 / CSM 2733 -\nContacto: Marcelo Rodríguez Cáceres\nLOTE / TERRENO EN VENTA BELLAVISTA COMERCIAL / RESIDENCIAL SOBRE SENADOR MORON.\nUbicado sobre la Av. Senador Moron entre Cabrera y Chubut, a tres cuadras de la Estación Bellavista del FFCC San Martín.\nExcelente zona comercial / residencial con bancos, telefónicas, Supermercados y comercios de cercanía.\nTerreno de características únicas por su tamaño y ubicación en la mejor zona comercial de Bellavista.\nEl terreno tiene 10,00 metros de frente sobre la avenida Senador Moróny una superficie de 400 m2 , con dos locales comerciales y una casa de dos plantas de xxxx m2 cubiertos\nAlta factibilidad para la construcción que permite desarrollar un local comercial de 400 m2 , o un desarrollo con un local comercial sobre el frente y PB y dos pisos en altura.\nZonificación C1 FOT 1,8 FOS 0,6 Densidad 300 habitantes/ha\nTerreno apto para CREDITO con impecable situación patrimonial que permite hacer escritura fácilmente.\nRemax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados.\nComprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar.",
+            {
+                "entities": [
+                    [
+                        190,
+                        230,
+                        "DIR_ENTRE"
+                    ],
+                    [
+                        866,
+                        873,
+                        "FOT "
+                    ],
+                    [
+                        1011,
+                        2485,
+                        "PLANTILLA"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Casa de 4 ambientes en Lomas del Mirador.  Ubicada en Melo 836, Lomas del Mirador.  Lote de 8,66 x 23 Vivienda con 100 años de antigüedad aprox. (ideal modernizar o demoler) de 90 m2 Cubiertos  o Cocina. o Comedor. o Baño. o 3 Dormitorios. o Patio. o Terraza. o Galpón.  ZONIFICACION Zona: U2B FOS 0,6 FOT 2.25 Densidad 700 Altura Máxima 13 mts  Consultanos para coordinar una visita LUCERO Propiedades  - KP255930 - KPD110810 - -   Publicado vía KiteProp CRM Inmobiliario.",
+            {
+                "entities": [
+                    [
+                        23,
+                        41,
+                        "NOMBRE_BARRIO"
+                    ],
+                    [
+                        54,
+                        62,
+                        "DIR_CALLE_ALTURA"
+                    ],
+                    [
+                        92,
+                        101,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        302,
+                        310,
+                        "FOT "
+                    ]
+                ]
+            }
+        ],
+        [
+            "EXCELENTE LOTE DE 10 X 50.50\nCON AMPLIO LOCAL SOBRE ARIETA AL 1150 A ESTRENAR\nZONIFICACION U2B\nFOT 2,25\nDENSIDAD 700\nAPTO PLANTA BAJA Y 3 PISOS.\nIDEAL CONSTRUCTOR\nXINTEL(KNK-KNK-443)",
+            {
+                "entities": [
+                    [
+                        18,
+                        28,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        52,
+                        66,
+                        "DIR_CALLE_ALTURA"
+                    ],
+                    [
+                        95,
+                        103,
+                        "FOT "
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote MULTIFAMILIAR de 10 ms de frente por 35,32 ms de fondo sobre Av. 25 de Mayo (ruta25) , próximo al centro comercial y a un kilometro aprox. de Panamericana. FOS 0.60 FOT 2.5 DENSIDAD 700 HAB X HA . ALTURA 15 MS",
+            {
+                "entities": [
+                    [
+                        22,
+                        59,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        66,
+                        160,
+                        "DIR_OTROS"
+                    ],
+                    [
+                        170,
+                        177,
+                        "FOT "
+                    ]
+                ]
+            }
+        ],
+        [
+            "En el inmueble se desarrollan 3 viviendas: -Primer casa de 4 ambientes, en planta baja al frente, con acceso independiente, que cuenta un amplio living, Cocina, comedor diario baño y 3 dormitorios. -Segunda casa, por pasillo de 2 Ambientes a refaccionar que cuenta con cocina comedor diario, un dormitorio, baño, galpón, patio y fondo libre. -Tercera casa de 2 Ambientes, en planta alta, al frente que consta de living comedor con salida al balcón, comedor diario, cocina independiente, un dormitorio, baño y patio propio con lavadero. Excelente ubicación, en muy lindo barrio residencial, con garita de seguridad en la esquina, a solo una cuadra de Av. Alsina y una cuadra de Malabia. Todo edificado sobre un lote propio de 8,66 Mts. de frente por 29.02 Mts. de fondo y una superficie total de 251 M2. Zonificación R2-1 (FOS 0,6 - FOT 1,8) Ideal inversionista. Acepta propuestas. Fernandez Gonzalez Propiedades.",
+            {
+                "entities": [
+                    [
+                        629,
+                        685,
+                        "DIR_OTROS"
+                    ],
+                    [
+                        725,
+                        768,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        832,
+                        839,
+                        "FOT "
+                    ]
+                ]
+            }
+        ],
+        [
+            "LOTE DE 8,66 X 27, IDEAL CONSTRUCTOR, FOS  0,6 FOT 1,6",
+            {
+                "entities": [
+                    [
+                        8,
+                        17,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        47,
+                        54,
+                        "FOT "
+                    ]
+                ]
+            }
+        ],
+        [
+            "FRACCION DE 10.695M2 - EN POLO INDUSTRIAL EZEIZA - DE LOS MEJORES LOTES POR TAMAÑO Y UBICACION DENTRO DEL PARQUE. Escrituración inmediata!!  - Posibilidades de Financiación. Ubicación: Se trata del lote 4 en Etapa 1 del Parque - ubicado en Autopista Ezeiza – Cañuelas, km. 41, bajada Tristán Suárez (Puente del Inca 2450 esq. Canelones). Características: • Medidas del terreno: Frente 69,45 mts x Profundidad 154 mts. • Retiros : Frente y Fondo 10 metros, laterales 10 metros. • Área zonificada ZI1 y ZI3, para categorías industriales 1, 2 y 3 • Indicadores urbanísticos: FOS 0.6 / FOT 0.6FOS: Sobre el Parque: Un desarrollo industrial diferente: amplio, seguro, con todos los servicios. Un ambiente que propicia la calidad de vida laboral. Cerca de todo. Situado en el corazón del Partido de Ezeiza, su cercanía al aeropuerto internacional le garantiza acceso inmediato a una completa red de autopistas, en la que destaca la AU Ezeiza-Cañuelas, la AU Ricchieri y la AU Presidente Perón (continuación del Camino del Buen Ayre), actualmente en construcción. Su proximidad a los puertos de Buenos Aires y La Plata, así como la existencia de una consolidada actividad industrial y comercial en la zona, facilita el desarrollo de nuevos proyectos y asegura óptimas condiciones en materia de transporte, servicios, recursos humanos y logística. Ubicación estratégica El parque se privilegia en cuanto a accesibilidad, rapidez y seguridad. Rodeado de un entorno unico y a 40km de Capital Federal por autopista (30 min.) – a 10km del Aeropuerto de Ezeiza (10 min.) – a 45km de Panamericana (35 min.) – a 45km del Puerto de Buenos Aires (40 min.) – a 45km de la Ciudad de la Plata (40 min.) – Situado a metros del cruce de la Autopista Ezeiza-Cañuelas Características generales • Superficie total de 500ha. • Lotes de 2.000 a 20.000m2 • Acceso directo desde la autopista • Área cerrada con control de acceso, cerco perimetral y alambre eléctrico • Área zonificada ZI1 y ZI3, para categorías industriales 1, 2 y 3 • Indicadores urbanísticos: FOS 0.6 / FOT 0.6 • Exenciones impositivas provinciales. • Escrituración inmediata. • Todos los servicios necesarios para radicación industrial • Plan intensivo de forestación. CONSULTANOS! Los datos consignados son meramente ilustrativos, quedando estos supeditados a la validación que surja del tí­tulo de propiedad o planos Municipales. La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General N° 2371 de la AFIP.  ",
+            {
+                "entities": [
+                    [
+                        26,
+                        48,
+                        "NOMBRE_BARRIO"
+                    ],
+                    [
+                        240,
+                        298,
+                        "DIR_OTROS"
+                    ],
+                    [
+                        300,
+                        335,
+                        "DIR_CALLE_ALTURA_INTERSECCION"
+                    ],
+                    [
+                        378,
+                        417,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        582,
+                        592,
+                        "FOT "
+                    ],
+                    [
+                        2223,
+                        2500,
+                        "PLANTILLA"
+                    ]
+                ]
+            }
+        ],
+        [
+            "OPORTUNIDAD DE INVERSION!!  LOTES DESDE 600 m2 - UN PARQUE PENSADO PARA LAS PYMES  30% ANTICIPO / SALDO 36 CUOTAS EN PESOS AL OFICIAL!!  ESTABLEZCA SU EMPRESA EN EL PARQUE INDUSTRIAL MAS GRANDE DE ZONA SUR!!  LOTE 3120 M2. unidad UP-13  Ubicación: El parque se encuentra en Florencio Varela a 300 mts de la Rotonda de Alpargatas y con acceso inmediato a Ruta No2, Ruta No 36 - Calchaqui y proximamente Autopista del Buen Ayre 2.  Características: Sobre una superficie de 106 has, el parque se desarrollara en 5 etapas, de las cuales se pone en venta la Primera etapa que constara con 47 parcelas con superficies desde 600 hasta los 10.000 m2. En su infraestructura contara con: red eléctrica de media tensión,  calles internas de hormigón H30 de 0.18 m, red de alumbrado público,  desagues pluviales. Servicios: seguridad las 24 hs, excelentes accesos y medios de transporte, eximiciones impositivas.  Zonificacion: Industrial 1 - Categoria 1,2 y 3  DESARROLLA FERNANDEZ PRIETO DESARROLLOS INMOBILIARIOS  RETIROS:  5,00 de frente y 10,00 de fondo RETIROS  LATERALES  : 3 Metros FOT 1,00 FOS 0,5  LO INVITAMOS A VISITARLO!! CONSULTENOS.  Los datos consignados son meramente ilustrativos, quedando estos supeditados a la validación que surja del título de propiedad o planos Municipales. La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General N 2371 de la AFIP.  CONSULTE FORMA DE PAGO   ",
+            {
+                "entities": [
+                    [
+                        49,
+                        134,
+                        "PREVENTA"
+                    ],
+                    [
+                        248,
+                        428,
+                        "DIR_OTROS"
+                    ],
+                    [
+                        1078,
+                        1086,
+                        "FOT "
+                    ],
+                    [
+                        1137,
+                        1436,
+                        "PLANTILLA"
+                    ]
+                ]
+            }
+        ],
+        [
+            "OPORTUNIDAD!! IDEAL INVERSOR / CONSTRUCTOR!! TERRENO CON ZONIFICACIÓN RA, FOS 0.6 Y FOT 2. UBICADO A 8 CUADRAS DE LA ESTACIÓN DE MORÓN.\nTIENE UN FRENTE DE 8,66 METROS POR 45 DE FONDO. GRAN POTENCIAL,  PARA REALIZAR PROYECTO DE VIVIENDAS!!\nCUENTA CON SERVICIOS DE AGUA CORRIENTE, CLOACA, LUZ Y GAS.\nADEMÁS POSEE UNA CASA A REFACCIONAR DE 5 AMBIENTES, CUATRO HABITACIONES CON PLACARD, DOS BAÑOS, UN TOILETTE, LIVING, COMEDOR, COCINA, LAVADERO Y GARAGE CUBIERTO PASANTE. POSEE PILETA, PATIO, CUARTO DE GUARADO Y FONDO CON GRAN JARDÍN.\nSUPERFICIE\nTERRENO: 386 M2\nY QUE ESTAS ESPERANDO!? LLAMAME VAYAMOS A VERLA!!",
+            {
+                "entities": [
+                    [
+                        84,
+                        90,
+                        "FOT "
+                    ],
+                    [
+                        91,
+                        135,
+                        "DIR_OTROS"
+                    ],
+                    [
+                        145,
+                        183,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
