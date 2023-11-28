@@ -22,14 +22,17 @@ def entrenar(data, filename: str):
     nlp = spacy.blank("es")
 
     db = DocBin()
-    for text, annotations in data:
-        doc = nlp(text)
-        ents = []
-        for start, end, label in annotations["entities"]:
-            span = doc.char_span(start, end, label=label)
-            ents.append(span)
-        doc.ents = ents
-        db.add(doc)
+    try:
+        for text, annotations in data:
+            doc = nlp(text)
+            ents = []
+            for start, end, label in annotations["entities"]:
+                span = doc.char_span(start, end, label=label)
+                ents.append(span)
+            doc.ents = ents
+            db.add(doc)
+    except: 
+        pass
     db.to_disk("./"+filename+".spacy")
 
 

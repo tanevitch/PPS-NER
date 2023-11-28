@@ -1,10 +1,15 @@
 import spacy
 
 
-text= "LOTE No 26 DE 5.010 M2 - LO INVITAMOS A VISITARLO!! Lindisimo Departamento en Venta sobre la calle Sargento Cabral entre Cancilleria y Plaza San Martin. Son 183 Mts. Piso. Palier Privado. Hall de entrada. Living, comedor y Escritorio a balcon corrido. Tres dormitorios con tres baños completos. Cocina con buen comedor diario. Lavadero Independiente. Dependencia de Servicio. En Impecable estado, reciclado con muy buen gusto. Buenos Placards. Luminoso. Servicios Centrales. Baulera. Horario porteria con vivienda en el edificio + camaras de Seguridad. Es una cuadra Super Tranquila con poco transito en el medio de la Ciudad! FOT 3. Expensas $6.254 ABL 2016 $1.929 Vale la pena verlo!"
+text= "Casa de 4 ambientes en Lomas del Mirador.  Ubicada en Melo 836, Lomas del Mirador.  Lote de 8,66 x 23 Vivienda con 100 años de antigüedad aprox. (ideal modernizar o demoler) de 90 m2 Cubiertos  o Cocina. o Comedor. o Baño. o 3 Dormitorios. o Patio. o Terraza. o Galpón.  ZONIFICACION Zona: U2B FOS 0,6 FOT 2.25 Densidad 700 Altura Máxima 13 mts  Consultanos para coordinar una visita LUCERO Propiedades  - KP255930 - KPD110810 - -   Publicado vía KiteProp CRM Inmobiliario"
 
-nlp= spacy.load("output/model-best")
+nlp= spacy.load("output/model-last")
 doc=nlp(text)
+
+ner = nlp.get_pipe("ner")
+
+# List the labels used by the NER model
+ner_labels = ner.labels
 
 for ent in doc.ents:
    print(ent.text,ent.label_)
