@@ -1,8 +1,7 @@
 import pandas as pd
 import csv
 
-# Supongamos que tienes un archivo CSV llamado 'description.csv' con "ñññ" como delimitador
-# Puedes leerlo así:
+
 df = pd.read_csv('description.csv')
 
 # Divide el DataFrame en grupos de 10 filas cada uno

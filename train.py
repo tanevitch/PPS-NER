@@ -4,35 +4,46 @@ import json
 from sklearn.model_selection import train_test_split
 
 def cargar_archivos():
-    json_array = []
-    files = ['anotaciones/archivo_1.json', 'anotaciones/archivo_11.json', 'anotaciones/archivo_21.json', 'anotaciones/archivo_31.json', 'anotaciones/archivo_41.json']
+    my_json = { "classes": [
+            "FOT",
+            "DIR_CALLE_ALTURA",
+            "DIR_INTERSECCION",
+            "DIR_ENTRE",
+            "DIR_OTROS",
+            "DIMENSIONES",
+            "NOMBRE_BARRIO",
+            "CANT_FRENTES",
+            "IRREGULAR",
+            "DIR_LOTE"
+        ], "annotations": []}
+    files = ['textos1.json', 'textos2.json']
     for file in files:
         with open(file, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            json_array.append(data)
-
-    merged_dict = {}
-    for json_dict in json_array:
-        merged_dict.update(json_dict)
-    json.dump(json_array, open("anotaciones.json", "w") )
-    return merged_dict
+            my_json["annotations"] += json.load(f)["annotations"]
+    
+    with open("anotaciones.json", 'w', encoding='utf-8') as f:
+        json.dump(my_json,f, ensure_ascii=False)
+    return my_json
 
 
 def entrenar(data, filename: str):
     nlp = spacy.blank("es")
 
     db = DocBin()
-    try:
-        for text, annotations in data:
-            doc = nlp(text)
-            ents = []
-            for start, end, label in annotations["entities"]:
-                span = doc.char_span(start, end, label=label)
+
+    for text, annotations in data:
+        doc = nlp(text)
+        ents = []
+        for start, end, label in annotations["entities"]:
+            span = doc.char_span(start, end, label=label)
+            if span is None:
+                msg = f"Skipping entity [{start}, {end}, {label}] in the following text because the character span '{doc.text[start:end]}' does not align with token boundaries:\n\n{repr(text)}\n"
+                print(msg)
+            else:
                 ents.append(span)
-            doc.ents = ents
-            db.add(doc)
-    except: 
-        pass
+        doc.ents = ents
+        db.add(doc)
+
     db.to_disk("./"+filename+".spacy")
 
 
@@ -41,8 +52,8 @@ def particionar(data):
     entrenar(train, "train_data")
     entrenar(test, "test_data")
 
-
-train_data= json.load(open("textos_1.json", 'r', encoding='utf-8'))
+cargar_archivos()
+train_data= json.load(open("anotaciones.json", 'r', encoding='utf-8'))
 particionar(train_data)
 
 
