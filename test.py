@@ -14,7 +14,7 @@ for ent in doc.ents:
    print(ent.text,ent.label_)
 
 
-text= """Amplio PH de tres ambientes. Se encuentra ubicado en 5 entre 528 bis y 529.
+text= """Amplio PH de tres ambientes. Se encuentra ubicado en calle 5 entre 528 bis y 529.
 """
 doc=nlp(text)
 for ent in doc.ents:
@@ -22,7 +22,7 @@ for ent in doc.ents:
 
 
    
-text= "637 entre 137 y 143. Lote de 27m x 150m, haciendo un total de 4050 m2. Barrio cerrado ya conformado compuesto por 9 lotes de diversas medidas. Su destino es para vivienda familiar. Cuenta con los servicios de luz y agua."
+text= "calle 637 entre 137 y 143. Lote de 27m x 150m, haciendo un total de 4050 m2. Barrio cerrado ya conformado compuesto por 9 lotes de diversas medidas. Su destino es para vivienda familiar. Cuenta con los servicios de luz y agua."
 doc=nlp(text)
 for ent in doc.ents:
    print(ent.text,ent.label_)

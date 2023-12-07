@@ -1,5 +1,6 @@
 {
     "classes": [
+        "FOT",
         "DIR_CALLE_ALTURA",
         "DIR_INTERSECCION",
         "DIR_ENTRE",
@@ -8,12 +9,11 @@
         "NOMBRE_BARRIO",
         "CANT_FRENTES",
         "IRREGULAR",
-        "DIR_LOTE",
-        "FOT"
+        "DIR_LOTE"
     ],
     "annotations": [
         [
-            "GALPON ,CON MUY BUEN ACCESO A PANAMERICANA Y RUTA 202 ( A SOLO 600 METROS )\r\nZONIFICACION: AREA INDUSTRIAL I2\r\nCARACTERISTICAS:\r\nALTURA 6 METROS SIN COLUMNAS\r\nPORTON: 4.80 mts. alto y 4.50 mts. ancho\r\nLOTE: 10 X 30\r\nCUBIERTOS: 190 M2\r\nFUERZA MOTRIZ\r\nFOS 0.60\r\nFOT 1.20\r\nMG Propiedades\r\nMonica Inés Gerstner\r\nCSI 5701\r\n[ Provista por Sistema Dixon ]",
+            "GALPON ,CON MUY BUEN ACCESO A PANAMERICANA Y RUTA 202 ( A SOLO 600 METROS ). ZONIFICACION: AREA INDUSTRIAL I2. CARACTERISTICAS:. ALTURA 6 METROS SIN COLUMNAS. PORTON: 4.80 mts. alto y 4.50 mts. ancho. LOTE: 10 X 30. CUBIERTOS: 190 M2. FUERZA MOTRIZ. FOS 0.60. FOT 1.20. MG Propiedades. Monica Inés Gerstner. CSI 5701. [ Provista por Sistema Dixon ]",
             {
                 "entities": [
                     [
@@ -52,17 +52,17 @@
             }
         ],
         [
-            "VENTA CASA TERRENO 322  M2 BERAZATEGUI CENTRO   DESCRIPCION:   CASA 3 AMBIENTES SE DESARROLLA EN UNA SOLA PLANTA   COCINA COMEDOR  LIVNG CON HOGAR A LEÑA  2 HABITACIONES  BAÑO COMPLETO    REFACTIBILIDAD   SUP. VENDIBLE ESTIMADA    483 M2 Y 10 Cocheras en PB   Distrito               R3  FOT        1.20  FOS        0.60  Observaciones  Premios + 25 %   Datos del terreno   Densidad neta hab/ha : 300  Altura Maxima (M)  Cant. Pisos: PB + 7 Pisos  Frente: 10.05  Lateral (M) 40  Superficie (M2): 322   Superficie Balcones   Superficies Deducibles                           Cantidad -   c/u (M2)-     Por planta (M2)-    Subtotal (M2)   Ascensor palier                                             1                     4                       20                                 32  Escalera contra incendios + Hall             1                     20                       4                                 190  Total a deducir                                              -                      -                        24                                 222  Superficie Vendible    Calculo Sup. Vendible                  Cantidad    Ocupable (M2)     Deducible (M2)   Vendible (M)   Subtotal (M2)2   Planta Baja                                         1                          -                                  -                              -                          10 Cocheras  1° al 7° Piso                                        7                        87                               24                           63                            441  Balcones                                             7                          -                                  -                               -                               42  Total                                                     -                           -                                  -                               -                              483     POSIBILIDAD DE CALIFICAR A PRÉSTAMO EN SOLO 7 DÍAS. Si te falta hasta un 30% del valor de esta propiedad, te ofrecemos solicitar un préstamo a través de Lendar, servicio exclusivo para clientes RE/MAX. Hace la simulación de tu cuota . La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General Nº 2371 de AFIP (COTI)   La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General N º 2371 de AFIP (COTI) En cumplimiento de las leyes provinciales vigentes que regulan el corretaje inmobiliario, ley nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte de los martilleros y corredores colegiados, cuyos datos se exhiben debajo del nombre de la inmobiliaria Las medidas y superficies consignadas en la presente, son aproximadas y no resultan vinculantes, los datos definitivos, son los que surgen del título de propiedad. MAURO MARTINEZ Col. 1163 de Quilmes.-   Corredor Responsable: Mauro Martínez CMCPDJQ 1163 - Contacto: Federico Rodriguez - MLS ID # ********-26   Remax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados. Comprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar ********",
+            "VENTA CASA TERRENO 322 M2 BERAZATEGUI CENTRO. DESCRIPCION: CASA 3 AMBIENTES SE DESARROLLA EN UNA SOLA PLANTA. COCINA COMEDOR LIVNG CON HOGAR A LEÑA 2 HABITACIONES BAÑO COMPLETO REFACTIBILIDAD. SUP. VENDIBLE ESTIMADA 483 M2 Y 10 Cocheras en PB. Distrito R3. FOT 1.20 FOS 0.60. Observaciones: Premios + 25 %. Datos del terreno   Densidad neta hab/ha : 300  Altura Maxima (M)  Cant. Pisos: PB + 7 Pisos  Frente: 10.05  Lateral (M) 40  Superficie (M2): 322.",
             {
                 "entities": [
                     [
-                        287,
-                        302,
+                        257,
+                        265,
                         "FOT"
                     ],
                     [
-                        336,
-                        348,
+                        291,
+                        305,
                         "FOT"
                     ]
                 ]
@@ -93,7 +93,7 @@
             }
         ],
         [
-            "EXCEPCIONAL LOTE DE 16,80 X 40\r\nINMEJORABLE ZONA CÉNTRICA DE SAN JUSTO\r\nZONIFICACIÓN C 1 / FOS 06 - FOT 03\r\nOPORTUNIDAD PARA IMPORTANTE EMPRENDIMIENTO\r\nREGIA CASA 480 M2/ 3 PLANTAS/ LIV COM/ COC COM/ GARAGE 4 AUTOS/ 6 DORMITORIOS/ 7 BAÑOS/ FONDO CON QUINCHO/ PLAYROOM/ EXCELENTE ESTADO GENERAL/",
+            "EXCEPCIONAL LOTE DE 16,80 X 40. INMEJORABLE ZONA CÉNTRICA DE SAN JUSTO. ZONIFICACIÓN C 1 / FOS 06 - FOT 03. OPORTUNIDAD PARA IMPORTANTE EMPRENDIMIENTO. REGIA CASA 480 M2/ 3 PLANTAS/ LIV COM/ COC COM/ GARAGE 4 AUTOS/ 6 DORMITORIOS/ 7 BAÑOS/ FONDO CON QUINCHO/ PLAYROOM/ EXCELENTE ESTADO GENERAL/",
             {
                 "entities": [
                     [
@@ -116,7 +116,7 @@
                     [
                         44,
                         85,
-                        "DIR_CALLE_ALTURA_INTERSECCION"
+                        "DIR_ENTRE"
                     ],
                     [
                         93,
@@ -125,14 +125,14 @@
                     ],
                     [
                         133,
-                        141,
+                        140,
                         "FOT"
                     ]
                 ]
             }
         ],
         [
-            "BUEN LOTE COMERCIAL PARA OFICINAS CON GRAN ACCESO A LA PANAMERICANA Y AL RAMAL TIGRE. ESQUINA URUGUAY!\r\nZONA IE (Industrial) - APTO OFICINAS - FOS 0,6 - FOT 1,2\r\nValor U$S 1.152/m2.\r\nAltura 8,50 mts . Retiros: de frente 3 mts y de 1 solo lateral 3 mts.\r\nMedidas: 8,66 x 29,08\r\nHay anteproyecto aprobado.\r\nABL $ 3.000\r\nARBA $ 2.250 (x 5)\r\nCorredor Público Nicolás Hyland CSI 6482",
+            "BUEN LOTE COMERCIAL PARA OFICINAS CON GRAN ACCESO A LA PANAMERICANA Y AL RAMAL TIGRE. ESQUINA URUGUAY!. ZONA IE (Industrial) - APTO OFICINAS - FOS 0,6 - FOT 1,2. Valor U$S 1.152/m2.. Altura 8,50 mts . Retiros: de frente 3 mts y de 1 solo lateral 3 mts.. Medidas: 8,66 x 29,08. Hay anteproyecto aprobado.. ABL $ 3.000. ARBA $ 2.250 (x 5). Corredor Público Nicolás Hyland CSI 6482",
             {
                 "entities": [
                     [
@@ -154,22 +154,22 @@
             }
         ],
         [
-            "Lote en Venta en La Plata\r\nCasa a demoler o reciclar.\r\n46 e/ 17 y 18\r\nSup. total: 200 m2 aprox. (8,15 x 24,50)ZONIFICACION: U/C2FOS 0,6FOT 2,25Niveles: 6Densidad: 900Premios: hasta 50% en FOT Y densidad.\r\nTerreno regular entre medianerasESCRITURA DIRECTA\r\nVerónica Silvestri Col. 7400 (vg)",
+            "Lote en Venta en La Plata. Casa a demoler o reciclar. 46 e/ 17 y 18. Sup. total: 200 m2 aprox. (8,15 x 24,50). ZONIFICACION: U/C2. FOS 0,6. FOT 2,25. Niveles: 6. Densidad: 900. Premios: hasta 50% en FOT Y densidad. Terreno regular entre medianeras. ESCRITURA DIRECTA. Verónica Silvestri Col. 7400 (vg)",
             {
                 "entities": [
                     [
                         53,
-                        66,
+                        67,
                         "DIR_ENTRE"
                     ],
                     [
-                        135,
-                        143,
+                        140,
+                        148,
                         "FOT"
                     ],
                     [
-                        166,
-                        191,
+                        177,
+                        202,
                         "FOT"
                     ]
                 ]
@@ -188,7 +188,7 @@
             }
         ],
         [
-            "LOTE No 26 DE 5.010 M2 - LO INVITAMOS A VISITARLO!!\r\nEMPRENDIMIENTO INDUSTRIAL - VENTA DE LOTES\r\nLOS LOTES SE ENTREGAN ENTOSCADOS.\r\nUbicación: Plaza Industrial de Escobar es un Parque Industrial de iniciativa privada, ubicado sobre la Autopista Panamericana (Ramal a Campana) Km 57,5 en la localidad de Escobar, sobre un predio de 106 hectáreas.\r\nCaracterísticas: Cien Lotes de 5.000 m2 a 25.000 m2. Los tres diferenciales del producto son justamente su ubicación (sobre una autopista principal), su bajada directa desde la autopista (el camión baja directamente en el predio sin tener que transitar por colectoras, zonas con semáforos, etc.) y que cuenta con infraestructura Premium requerida por las industrias (pavimentos de hormigón armado, red cloacal, red pluvial, planta de tratamiento, red de agua, red de fibra óptica, energía soterrada, etc.). Actualmente nos encontramos ejecutando las obras de infraestructura pertenecientes a las tres primeras etapas de construcción. FOS es 0.6 y el FOT 0.8.\r\nZonificación: PIND (Polo Industrial Cientifico y Tecnologico)\r\nDiferenciales: Ubicacion y entoscado.\r\nCONSULTE\r\nLos datos consignados son meramente ilustrativos, quedando estos supeditados a la validación que surja del título de propiedad o planos Municipales. La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General N 2371 de la AFIP.",
+            "LOTE No 26 DE 5.010 M2 - LO INVITAMOS A VISITARLO!!. EMPRENDIMIENTO INDUSTRIAL - VENTA DE LOTES. LOS LOTES SE ENTREGAN ENTOSCADOS.. Ubicación: Plaza Industrial de Escobar es un Parque Industrial de iniciativa privada, ubicado sobre la Autopista Panamericana (Ramal a Campana) Km 57,5 en la localidad de Escobar, sobre un predio de 106 hectáreas.. Características: Cien Lotes de 5.000 m2 a 25.000 m2. Los tres diferenciales del producto son justamente su ubicación (sobre una autopista principal), su bajada directa desde la autopista (el camión baja directamente en el predio sin tener que transitar por colectoras, zonas con semáforos, etc.) y que cuenta con infraestructura Premium requerida por las industrias (pavimentos de hormigón armado, red cloacal, red pluvial, planta de tratamiento, red de agua, red de fibra óptica, energía soterrada, etc.). Actualmente nos encontramos ejecutando las obras de infraestructura pertenecientes a las tres primeras etapas de construcción. FOS es 0.6 y el FOT 0.8.. Zonificación: PIND (Polo Industrial Cientifico y Tecnologico). Diferenciales: Ubicacion y entoscado.. CONSULTE. Los datos consignados son meramente ilustrativos, quedando estos supeditados a la validación que surja del título de propiedad o planos Municipales. La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General N 2371 de la AFIP.",
             {
                 "entities": [
                     [
@@ -210,7 +210,7 @@
             }
         ],
         [
-            "LOTE DE 10X30 EN LOMAS DEL MIRADOR\r\nEXCELENTE ACCESO A UNA CUADRA DE GRAL PAZ Y 3 DE MOSCONI Y DE TONELERO\r\nFOT 2,25\r\nFOS 0,6\r\nIDEAL EMPRENDIMIENTO INMOBILIARIO, GALPON O FABRICA\r\nNO DUDE EN CONSULTAR  Y REALIZAR UNA VISITA!!!",
+            "LOTE DE 10X30 EN LOMAS DEL MIRADOR. EXCELENTE ACCESO A UNA CUADRA DE GRAL PAZ Y 3 DE MOSCONI Y DE TONELERO. FOT 2,25. FOS 0,6. IDEAL EMPRENDIMIENTO INMOBILIARIO, GALPON O FABRICA. NO DUDE EN CONSULTAR  Y REALIZAR UNA VISITA!!!",
             {
                 "entities": [
                     [
@@ -237,19 +237,19 @@
                 "entities": [
                     [
                         15,
-                        33,
+                        32,
                         "DIMENSIONES"
                     ],
                     [
                         50,
-                        56,
+                        55,
                         "FOT"
                     ]
                 ]
             }
         ],
         [
-            "LOTE EN FOT 1 - FOS 0,6\r\nTotalmente libre y con todos los servicios que pasan por la linea municipal.\r\nZona comercial muy transitada.",
+            "LOTE EN FOT 1 - FOS 0,6. Totalmente libre y con todos los servicios que pasan por la linea municipal.. Zona comercial muy transitada.",
             {
                 "entities": [
                     [
@@ -261,22 +261,22 @@
             }
         ],
         [
-            "Terreno de 10x 60 en centro comercial Los Hornos, con 268m2 cubiertos y 3 locales al frente.\r\nU/C7a - Subcentros Urbanos\r\nFOS 0,6\r\nALTURA REFERENCIA EN NIVELES 3\r\nFOT COMERCIAL 1,2\r\nFOT RESIDENCIAL 1,2\r\nDENSIDAD COMERCIAL 300\r\nDENSIDAD RESIDENCIAL 300\r\nLa Presente oferta esta condicionada a la confección del COTI por parte del Propietario (Res.AFIP 2371).\r\nLos metros publicados son aproximados, las medidas exactas surgirán de la escritura traslativa de dominio.\r\n------------------------\r\nDacal Bienes Raíces\r\n(0221) 421-3888/1112\r\n(011) 4342-3951",
+            "Terreno de 10x 60 en centro comercial Los Hornos, con 268m2 cubiertos y 3 locales al frente. U/C7a - Subcentros Urbanos. FOS 0,6. ALTURA REFERENCIA EN NIVELES 3. FOT COMERCIAL 1,2. FOT RESIDENCIAL 1,2. DENSIDAD COMERCIAL 300. DENSIDAD RESIDENCIAL 300. La Presente oferta esta condicionada a la confección del COTI por parte del Propietario (Res.AFIP 2371). Los metros publicados son aproximados, las medidas exactas surgirán de la escritura traslativa de dominio.. ------------------------. Dacal Bienes Raíces. (0221) 421-3888/1112. (011) 4342-3951",
             {
                 "entities": [
                     [
-                        11,
+                        0,
                         17,
                         "DIMENSIONES"
                     ],
                     [
-                        159,
-                        176,
+                        162,
+                        179,
                         "FOT"
                     ],
                     [
-                        177,
-                        196,
+                        181,
+                        200,
                         "FOT"
                     ]
                 ]
@@ -306,7 +306,7 @@
             }
         ],
         [
-            "Corredor Responsable: LAURA PALINI CSM 2733 / CPI 7752 -\r\nContacto: Oscar Benitez\r\nNUEVO VALOR Oportunidad !!! Venta de LOTE de 300 mts 2 con casa 3/4 ambientes a refaccionar o demoler sobre lote de 10 x 30 mts. A solo 300 mts del centro comercial y 500 mts de la estación de William C. Morris.\r\nMUY BUEN UBICACION!!! CONSULTE POR ENTREGA DEL 70% Y EL RESTO EN CUOTAS!!!\r\nESPACIO LIBRE DE 10 X 20 MTS AL FRENTE- SE PUEDEN REALIZAR AMPLIACIONES Y/O LOCALES PARA DAR UN DESTINO COMERCIAL.\r\nCASA A REFACCIONAR O DEMOLER CON INSTALACIONES: Electricidad, gas, bombeador, pozo ( listo para la instalación de la cloaca)\r\n# COCINA/COMEDOR\r\n# 4 DORMITORIOS\r\n# 1 BAÑO FUNCIONANDO\r\n# 1 BAÑO A REHACER\r\n# 1 COCINA A REHACER\r\n# PATIO TRASERO CON CUARTO DE GUARDADO\r\nSe encuentra a 400 mts del centro comercial de Williams C. Morris, sobre una calle directa a Hurlingham, con parada de colectivos, a 30 mts y la plaza Urquiza a 50 mts. Ideal para personas que quieran caminar, correr o disfrutar de espacios verdes.\r\nINFORMACIÓN IMPORTANTE !!!\r\nSi te falta hasta un 30% del valor de esta propiedad, tenemos LENDAR CRÉDITOS HIPOTECARIOS EN UN SOLO CLICK\r\nhttps://www.lendar.com.ar/quiero-un-prestamo/#simulador\r\nPodes hacer la simulación de las cuotas en el link y calcular vos tu préstamo.\r\nBeneficio EXCLUSIVO para clientes ReMax.\r\nTrabajamos todos los días para brindar un servicio inmobiliario de excelencia\r\nLLAMANOS PARA CONOCER ESTA INCREÍBLE OPORTUNIDAD !!!!!!\r\nZONA RESIDENCIAL BAJA DENSIDAD. Viviendas unifamiliares de baja densidad\r\nFOS de 0.5\r\nFOT de 0.8\r\nINFORMACIÓN ADICIONAL:\r\nHurlingham es uno de los 135 partidos de la provincia argentina de Buenos Aires. Se ubica en la zona Oeste del Gran Buenos Aires.\r\nLímites: al sur con el Partido de Morón, al oeste con el Partido de Ituzaingó, al este con el Partido de Tres de Febrero y al norte con el Partido de San Miguel.\r\nCon sólo 36 Km2 de superficie, es uno de los menos extensos y a la vez, uno de los más poblados de la región.\r\nINMEJORABLE OPORTUNIDAD Y UBICACIÓN..\r\n-ZONA CÉNTRICA\r\n-ASFALTADA\r\n-CON TODOS LOS SERVICIOS.\r\nCONTACTANOS!!\r\nESTÁS A UN SÓLO LLAMADO DE QUE SEA TUYO!!\r\nMUDATE A LA VIDA QUE SOÑÁS!!!\r\nRemax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados.\r\nComprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar.",
+            "Corredor Responsable: LAURA PALINI CSM 2733 / CPI 7752 -. Contacto: Oscar Benitez. NUEVO VALOR Oportunidad !!! Venta de LOTE de 300 mts 2 con casa 3/4 ambientes a refaccionar o demoler sobre lote de 10 x 30 mts. A solo 300 mts del centro comercial y 500 mts de la estación de William C. Morris.. MUY BUEN UBICACION!!! CONSULTE POR ENTREGA DEL 70% Y EL RESTO EN CUOTAS!!!. ESPACIO LIBRE DE 10 X 20 MTS AL FRENTE- SE PUEDEN REALIZAR AMPLIACIONES Y/O LOCALES PARA DAR UN DESTINO COMERCIAL.. CASA A REFACCIONAR O DEMOLER CON INSTALACIONES: Electricidad, gas, bombeador, pozo ( listo para la instalación de la cloaca). # COCINA/COMEDOR. # 4 DORMITORIOS. # 1 BAÑO FUNCIONANDO. # 1 BAÑO A REHACER. # 1 COCINA A REHACER. # PATIO TRASERO CON CUARTO DE GUARDADO. Se encuentra a 400 mts del centro comercial de Williams C. Morris, sobre una calle directa a Hurlingham, con parada de colectivos, a 30 mts y la plaza Urquiza a 50 mts. Ideal para personas que quieran caminar, correr o disfrutar de espacios verdes.. INFORMACIÓN IMPORTANTE !!!. Si te falta hasta un 30% del valor de esta propiedad, tenemos LENDAR CRÉDITOS HIPOTECARIOS EN UN SOLO CLICK. https://www.lendar.com.ar/quiero-un-prestamo/#simulador. Podes hacer la simulación de las cuotas en el link y calcular vos tu préstamo.. Beneficio EXCLUSIVO para clientes ReMax.. Trabajamos todos los días para brindar un servicio inmobiliario de excelencia. LLAMANOS PARA CONOCER ESTA INCREÍBLE OPORTUNIDAD !!!!!!. ZONA RESIDENCIAL BAJA DENSIDAD. Viviendas unifamiliares de baja densidad. FOS de 0.5. FOT de 0.8. INFORMACIÓN ADICIONAL:. Hurlingham es uno de los 135 partidos de la provincia argentina de Buenos Aires. Se ubica en la zona Oeste del Gran Buenos Aires.. Límites: al sur con el Partido de Morón, al oeste con el Partido de Ituzaingó, al este con el Partido de Tres de Febrero y al norte con el Partido de San Miguel.. Con sólo 36 Km2 de superficie, es uno de los menos extensos y a la vez, uno de los más poblados de la región.. INMEJORABLE OPORTUNIDAD Y UBICACIÓN... -ZONA CÉNTRICA. -ASFALTADA. -CON TODOS LOS SERVICIOS.. CONTACTANOS!!. ESTÁS A UN SÓLO LLAMADO DE QUE SEA TUYO!!. MUDATE A LA VIDA QUE SOÑÁS!!!. Remax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados.. Comprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar.",
             {
                 "entities": [
                     [
@@ -323,7 +323,7 @@
             }
         ],
         [
-            "Terreno en venta. Lote irregular de 131 m2. Con frente de 8.76 , un lateral de 16,8 y otro lateral de 13,6.\r\nFOT 2,5.",
+            "Terreno en venta. Lote irregular de 131 m2. Con frente de 8.76 , un lateral de 16,8 y otro lateral de 13,6.. FOT 2,5.",
             {
                 "entities": [
                     [
@@ -345,7 +345,7 @@
             }
         ],
         [
-            "CHALET DE ESTILO INGLES SOBRE LOTE DE 25 X 30\r\nLA ZONA ES APTA PARA LA CONSTRUCCIÓN DE EDIFICIO EN ALTURA (HASTA 9 PISOS) Y LA UBICACIÓN ES UN ÁREA SUPER RESIDENCIAL CON UN ARBOLADO ÚNICO\r\nZONIFICACIÓN: FOT 3 - FOS 0.6\r\nIDEAL DESARROLLO GASTRONOMICO / COMERCIAL.",
+            "CHALET DE ESTILO INGLES SOBRE LOTE DE 25 X 30. LA ZONA ES APTA PARA LA CONSTRUCCIÓN DE EDIFICIO EN ALTURA (HASTA 9 PISOS) Y LA UBICACIÓN ES UN ÁREA SUPER RESIDENCIAL CON UN ARBOLADO ÚNICO. ZONIFICACIÓN: FOT 3 - FOS 0.6. IDEAL DESARROLLO GASTRONOMICO / COMERCIAL.",
             {
                 "entities": [
                     [
@@ -371,15 +371,15 @@
                         "DIMENSIONES"
                     ],
                     [
-                        170,
-                        177,
+                        171,
+                        178,
                         "FOT"
                     ]
                 ]
             }
         ],
         [
-            "Corredor Responsable: Laura Palini CPI 7752 / CSM 2733 -\r\nContacto: Marcelo Rodríguez Cáceres\r\nLOTE / TERRENO EN VENTA BELLAVISTA COMERCIAL / RESIDENCIAL SOBRE SENADOR MORON.\r\nUbicado sobre la Av. Senador Moron entre Cabrera y Chubut, a tres cuadras de la Estación Bellavista del FFCC San Martín.\r\nExcelente zona comercial / residencial con bancos, telefónicas, Supermercados y comercios de cercanía.\r\nTerreno de características únicas por su tamaño y ubicación en la mejor zona comercial de Bellavista.\r\nEl terreno tiene 10,00 metros de frente sobre la avenida Senador Moróny una superficie de 400 m2 , con dos locales comerciales y una casa de dos plantas de xxxx m2 cubiertos\r\nAlta factibilidad para la construcción que permite desarrollar un local comercial de 400 m2 , o un desarrollo con un local comercial sobre el frente y PB y dos pisos en altura.\r\nZonificación C1 FOT 1,8 FOS 0,6 Densidad 300 habitantes/ha\r\nTerreno apto para CREDITO con impecable situación patrimonial que permite hacer escritura fácilmente.\r\nRemax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados.\r\nComprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar.",
+            "Corredor Responsable: Laura Palini CPI 7752 / CSM 2733 -. Contacto: Marcelo Rodríguez Cáceres. LOTE / TERRENO EN VENTA BELLAVISTA COMERCIAL / RESIDENCIAL SOBRE SENADOR MORON.. Ubicado sobre la Av. Senador Moron entre Cabrera y Chubut, a tres cuadras de la Estación Bellavista del FFCC San Martín.. Excelente zona comercial / residencial con bancos, telefónicas, Supermercados y comercios de cercanía.. Terreno de características únicas por su tamaño y ubicación en la mejor zona comercial de Bellavista.. El terreno tiene 10,00 metros de frente sobre la avenida Senador Moróny una superficie de 400 m2 , con dos locales comerciales y una casa de dos plantas de xxxx m2 cubiertos. Alta factibilidad para la construcción que permite desarrollar un local comercial de 400 m2 , o un desarrollo con un local comercial sobre el frente y PB y dos pisos en altura.. Zonificación C1 FOT 1,8 FOS 0,6 Densidad 300 habitantes/ha. Terreno apto para CREDITO con impecable situación patrimonial que permite hacer escritura fácilmente.. Remax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados.. Comprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar.",
             {
                 "entities": [
                     [
@@ -452,7 +452,7 @@
             }
         ],
         [
-            "Terreno de 10x 60 en centro comercial Los Hornos, con 268m2 cubiertos y 3 locales al frente.. U/C7a - Subcentros Urbanos. FOS 0,6. ALTURA REFERENCIA EN NIVELES 3. FOT COMERCIAL 1,2. FOT RESIDENCIAL 1,2. DENSIDAD COMERCIAL 300. DENSIDAD RESIDENCIAL 300. La Presente oferta esta condicionada a la confección del COTI por parte del Propietario (Res.AFIP 2371).. Los metros publicados son aproximados, las medidas exactas surgirán de la escritura traslativa de dominio.. ------------------------. Dacal Bienes Raíces. (0221) 421-3888/1112. (011) 4342-3951",
+            "Terreno de 10x 60 en centro comercial Los Hornos, con 268m2 cubiertos y 3 locales al frente. U/C7a - Subcentros Urbanos. FOS 0,6. ALTURA REFERENCIA EN NIVELES 3. FOT COMERCIAL 1,2. FOT RESIDENCIAL 1,2. DENSIDAD COMERCIAL 300. DENSIDAD RESIDENCIAL 300. La Presente oferta esta condicionada a la confección del COTI por parte del Propietario (Res.AFIP 2371).. Los metros publicados son aproximados, las medidas exactas surgirán de la escritura traslativa de dominio.. ------------------------. Dacal Bienes Raíces. (0221) 421-3888/1112. (011) 4342-3951",
             {
                 "entities": [
                     [
@@ -461,8 +461,13 @@
                         "DIMENSIONES"
                     ],
                     [
-                        163,
-                        201,
+                        162,
+                        179,
+                        "FOT"
+                    ],
+                    [
+                        181,
+                        200,
                         "FOT"
                     ]
                 ]
@@ -479,7 +484,7 @@
                     ],
                     [
                         81,
-                        102,
+                        103,
                         "DIMENSIONES"
                     ],
                     [
@@ -822,7 +827,7 @@
                 "entities": [
                     [
                         22,
-                        58,
+                        59,
                         "DIMENSIONES"
                     ],
                     [
@@ -868,7 +873,7 @@
             }
         ],
         [
-            "FRACCION DE 10.695M2 - EN POLO INDUSTRIAL EZEIZA - DE LOS MEJORES LOTES POR TAMAÑO Y UBICACION DENTRO DEL PARQUE. Escrituración inmediata!!  - Posibilidades de Financiación. Ubicación: Se trata del lote 4 en Etapa 1 del Parque - ubicado en Autopista Ezeiza - Cañuelas, km. 41, bajada Tristán Suárez (Puente del Inca 2450 esq. Canelones). Características: • Medidas del terreno: Frente 69,45 mts x Profundidad 154 mts. • Retiros : Frente y Fondo 10 metros, laterales 10 metros. • Área zonificada ZI1 y ZI3, para categorías industriales 1, 2 y 3 • Indicadores urbanísticos: FOS 0.6 / FOT 0.6FOS: Sobre el Parque: Un desarrollo industrial diferente: amplio, seguro, con todos los servicios. Un ambiente que propicia la calidad de vida laboral. Cerca de todo. Situado en el corazón del Partido de Ezeiza, su cercanía al aeropuerto internacional le garantiza acceso inmediato a una completa red de autopistas, en la que destaca la AU Ezeiza-Cañuelas, la AU Ricchieri y la AU Presidente Perón (continuación del Camino del Buen Ayre), actualmente en construcción. Su proximidad a los puertos de Buenos Aires y La Plata, así como la existencia de una consolidada actividad industrial y comercial en la zona, facilita el desarrollo de nuevos proyectos y asegura óptimas condiciones en materia de transporte, servicios, recursos humanos y logística. Ubicación estratégica El parque se privilegia en cuanto a accesibilidad, rapidez y seguridad. Rodeado de un entorno unico y a 40km de Capital Federal por autopista (30 min.) - a 10km del Aeropuerto de Ezeiza (10 min.) - a 45km de Panamericana (35 min.) - a 45km del Puerto de Buenos Aires (40 min.) - a 45km de la Ciudad de la Plata (40 min.) - Situado a metros del cruce de la Autopista Ezeiza-Cañuelas Características generales • Superficie total de 500ha. • Lotes de 2.000 a 20.000m2 • Acceso directo desde la autopista • Área cerrada con control de acceso, cerco perimetral y alambre eléctrico • Área zonificada ZI1 y ZI3, para categorías industriales 1, 2 y 3 • Indicadores urbanísticos: FOS 0.6 / FOT 0.6 • Exenciones impositivas provinciales. • Escrituración inmediata. • Todos los servicios necesarios para radicación industrial • Plan intensivo de forestación. CONSULTANOS! Los datos consignados son meramente ilustrativos, quedando estos supeditados a la validación que surja del tí­tulo de propiedad o planos Municipales. La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General N° 2371 de la AFIP.  ",
+            "FRACCION DE 10.695M2 - EN POLO INDUSTRIAL EZEIZA - DE LOS MEJORES LOTES POR TAMAÑO Y UBICACION DENTRO DEL PARQUE. Escrituración inmediata!!  - Posibilidades de Financiación. Ubicación: Se trata del lote 4 en Etapa 1 del Parque - ubicado en Autopista Ezeiza - Cañuelas, km. 41, bajada Tristán Suárez (Puente del Inca 2450 esq. Canelones). Características: • Medidas del terreno: Frente 69,45 mts x Profundidad 154 mts. • Retiros : Frente y Fondo 10 metros, laterales 10 metros. • Área zonificada ZI1 y ZI3, para categorías industriales 1, 2 y 3 • Indicadores urbanísticos: FOS 0.6 / FOT 0.6 FOS: Sobre el Parque: Un desarrollo industrial diferente: amplio, seguro, con todos los servicios. Un ambiente que propicia la calidad de vida laboral. Cerca de todo. Situado en el corazón del Partido de Ezeiza, su cercanía al aeropuerto internacional le garantiza acceso inmediato a una completa red de autopistas, en la que destaca la AU Ezeiza-Cañuelas, la AU Ricchieri y la AU Presidente Perón (continuación del Camino del Buen Ayre), actualmente en construcción. Su proximidad a los puertos de Buenos Aires y La Plata, así como la existencia de una consolidada actividad industrial y comercial en la zona, facilita el desarrollo de nuevos proyectos y asegura óptimas condiciones en materia de transporte, servicios, recursos humanos y logística. Ubicación estratégica El parque se privilegia en cuanto a accesibilidad, rapidez y seguridad. Rodeado de un entorno unico y a 40km de Capital Federal por autopista (30 min.) - a 10km del Aeropuerto de Ezeiza (10 min.) - a 45km de Panamericana (35 min.) - a 45km del Puerto de Buenos Aires (40 min.) - a 45km de la Ciudad de la Plata (40 min.) - Situado a metros del cruce de la Autopista Ezeiza-Cañuelas Características generales • Superficie total de 500ha. • Lotes de 2.000 a 20.000m2 • Acceso directo desde la autopista • Área cerrada con control de acceso, cerco perimetral y alambre eléctrico • Área zonificada ZI1 y ZI3, para categorías industriales 1, 2 y 3 • Indicadores urbanísticos: FOS 0.6 / FOT 0.6 • Exenciones impositivas provinciales. • Escrituración inmediata. • Todos los servicios necesarios para radicación industrial • Plan intensivo de forestación. CONSULTANOS! Los datos consignados son meramente ilustrativos, quedando estos supeditados a la validación que surja del tí­tulo de propiedad o planos Municipales. La venta queda sujeta al cumplimiento por parte del propietario de lo establecido por la Resolución General N° 2371 de la AFIP.",
             {
                 "entities": [
                     [
@@ -885,11 +890,6 @@
                         582,
                         589,
                         "FOT"
-                    ],
-                    [
-                        833,
-                        869,
-                        "DIMENSIONES"
                     ]
                 ]
             }
@@ -899,7 +899,7 @@
             {
                 "entities": [
                     [
-                        1004,
+                        1005,
                         1077,
                         "DIMENSIONES"
                     ],
@@ -934,7 +934,7 @@
                 "entities": [
                     [
                         408,
-                        443,
+                        442,
                         "DIMENSIONES"
                     ]
                 ]
@@ -1228,6 +1228,11 @@
                     ],
                     [
                         237,
+                        265,
+                        "FOT"
+                    ],
+                    [
+                        266,
                         297,
                         "FOT"
                     ]
@@ -1613,7 +1618,7 @@
             {
                 "entities": [
                     [
-                        187,
+                        188,
                         232,
                         "DIMENSIONES"
                     ],
@@ -1630,7 +1635,7 @@
             {
                 "entities": [
                     [
-                        185,
+                        195,
                         202,
                         "FOT"
                     ]
@@ -1815,7 +1820,7 @@
             }
         ],
         [
-            "Parque Industrial Cañuelas - Lote 9300 m2 (son 2 de 4650 m2 c/u) - Apto industrias categoría I, II y III.  El Parque cuenta con 200 hectáreas desarrolladas en dos etapas, la primera -de 100 hectáreas- totalmente finalizada, con escrituración inmediata.   - Retiros: frente 10 m, fondo 10 m (lotes perimetrales 5 m), laterales 5 m - FOS 0.6 y FOT 1.2 - Calles internas pavimentadas, aptas para tránsito pesado - Energía eléctrica de media tensión, tendido con columnas - Servicios de telecomunicaciones por fibra óptica (telefonía, banda ancha, etc) - Desagues: cuneta para pluviales con colección e industriales por conductos subterráneos - Balanza para camiones de hasta 80 toneladas - Helipuerto - Seguridad privada, control de accesos - Cerco perimetral de 2m de altura y forestación de banda perimetral de 15m de ancho - Gas natural con un tendido de 4 y una presión de 45kg/cm2 de entrada al parque, con distribución en media presión de 4Kg/cm2 en la red interna - Alumbrado general - Oficinas de recepción y administración - Estacionamiento - Estacionamiento para camiones en tránsito - Servicios del Banco de la Provincia de Buenos Aires con ejecutivo de cuenta y cajeros automáticos.      ",
+            "Parque Industrial Cañuelas - Lote 9300 m2 (son 2 de 4650 m2 c/u) - Apto industrias categoría I, II y III.  El Parque cuenta con 200 hectáreas desarrolladas en dos etapas, la primera -de 100 hectáreas- totalmente finalizada, con escrituración inmediata.   - Retiros: frente 10 m, fondo 10 m (lotes perimetrales 5 m), laterales 5 m - FOS 0.6 y FOT 1.2 - Calles internas pavimentadas, aptas para tránsito pesado - Energía eléctrica de media tensión, tendido con columnas - Servicios de telecomunicaciones por fibra óptica (telefonía, banda ancha, etc) - Desagues: cuneta para pluviales con colección e industriales por conductos subterráneos - Balanza para camiones de hasta 80 toneladas - Helipuerto - Seguridad privada, control de accesos - Cerco perimetral de 2m de altura y forestación de banda perimetral de 15m de ancho - Gas natural con un tendido de 4 y una presión de 45kg/cm2 de entrada al parque, con distribución en media presión de 4Kg/cm2 en la red interna - Alumbrado general - Oficinas de recepción y administración - Estacionamiento - Estacionamiento para camiones en tránsito - Servicios del Banco de la Provincia de Buenos Aires con ejecutivo de cuenta y cajeros automáticos.",
             {
                 "entities": [
                     [
@@ -2112,17 +2117,17 @@
             }
         ],
         [
-            "LOTE TERRENO INVERSIÓN CONSTRUCTORES QUILMES CENTRO  CARACTERISTICAS:  -Zonificación : R1 -FOT 1.8 -FOS 0.60 -Lote de 10.75 x 43.41 -Superficie Total 482.31 mts2 -Capacidad Constructiva 868 Mts2 Aprox  LA PROPIEDAD: Galpón a Demoler en Quilmes , construido sobre Lote de 482.31 Mts2 .Ubicada a 5 cuadras de Av. Hipolito Yrigoyen. A 1 Cuadra de Mitre . Varios Medios de transportes disponibles para acceso  Los Propietarios aceptan Departamento y/o metros como parte de pago. Corredor Responsable: MARTIN VELTRI CMQ 805 / EDUARDO A. GARBUGLIA CUCICBA 1969  - Contacto: Pablo Battistelli - MLS ID # ********-136   Remax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados. Comprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar ********",
+            "LOTE TERRENO INVERSIÓN CONSTRUCTORES QUILMES CENTRO  CARACTERISTICAS:  -Zonificación : R1 - FOT 1.8 - FOS 0.60 - Lote de 10.75 x 43.41 -Superficie Total 482.31 mts2 -Capacidad Constructiva 868 Mts2 Aprox  LA PROPIEDAD: Galpón a Demoler en Quilmes , construido sobre Lote de 482.31 Mts2 .Ubicada a 5 cuadras de Av. Hipolito Yrigoyen. A 1 Cuadra de Mitre . Varios Medios de transportes disponibles para acceso  Los Propietarios aceptan Departamento y/o metros como parte de pago. Corredor Responsable: MARTIN VELTRI CMQ 805 / EDUARDO A. GARBUGLIA CUCICBA 1969  - Contacto: Pablo Battistelli - MLS ID # ********-136   Remax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados. Comprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar ********",
             {
                 "entities": [
                     [
-                        91,
-                        98,
+                        92,
+                        99,
                         "FOT"
                     ],
                     [
-                        110,
-                        131,
+                        113,
+                        134,
                         "DIMENSIONES"
                     ]
                 ]
@@ -2207,7 +2212,7 @@
             }
         ],
         [
-            "EXCELENTE LOTE DE 17,32 DE FRENTE SOBRE LA AVENIDA 9 Y 43,3 METROS DE FONDO. UBICADO EN AVENIDA 9 ENTRE LAS CALLE 36 Y 38. FOS 0,6 FOT 1,4 Expensas: 0",
+            "EXCELENTE LOTE DE 17,32 DE FRENTE SOBRE LA AVENIDA 9 Y 43 ,3 METROS DE FONDO. UBICADO EN AVENIDA 9 ENTRE LAS CALLE 36 Y 38. FOS 0,6 FOT 1,4 Expensas: 0",
             {
                 "entities": [
                     [
@@ -2470,7 +2475,7 @@
             }
         ],
         [
-            "Casa en venta a RECICLAR, Ideal inversión p/ Locales Comerciales y/o Dptos. Indicadores urbanisticos: FOS 0,60 / FOT 1,2Altura: hasta 2 plantas De Orientación Este, ideal para una vivienda en la que deseamos que el calor y el sol incidan por las mañanas, hasta el mediodía.  Superficies y Medidas 9,80 mts de frente 33,5 mts de fondoSuperficie de Terreno total 328 m2Superficie total Construida de 162 m2",
+            "Casa en venta a RECICLAR, Ideal inversión p/ Locales Comerciales y/o Dptos. Indicadores urbanisticos: FOS 0,60 / FOT 1,2 Altura: hasta 2 plantas De Orientación Este, ideal para una vivienda en la que deseamos que el calor y el sol incidan por las mañanas, hasta el mediodía.  Superficies y Medidas 9,80 mts de frente 33,5 mts de fondo. Superficie de Terreno total 328 m2Superficie total Construida de 162 m2",
             {
                 "entities": [
                     [
@@ -2479,8 +2484,8 @@
                         "FOT"
                     ],
                     [
-                        297,
-                        333,
+                        298,
+                        334,
                         "DIMENSIONES"
                     ]
                 ]
@@ -2499,18 +2504,363 @@
             }
         ],
         [
-            "TERRENO UNIFAMILIAR EN PINAR DEL GOLF-MONTE HERMOSO, SOBRE CALLE LA PALOMA.  ZONA RESIDENCIAL EXCLUSIVA (R13) -FOS 0.4-FOT 0.6 -DENS. HAB./ha. 100. MEDIDAS-FRENTE (ESTE): 15,51MS.-LATERAL SUR: 29,22 MS.-LATERAL NORTE: 28,35 MS.-FONDO (OESTE): 15,5 MS.SUPERFICIE TOTAL: 446 MS2. SE ENCUENTRA A 12 CUADRAS DEL CENTRO DE MONTE HERMOSO, A 6 CUADRAS DEL CENTRO COMERCIAL DE ALDEA DEL ESTE Y A 600 METROS DEL MAR. ENTORNO TRANQUILO Y ARBOLADO. *SERVICIO DE LUZ Y AGUA. Grupo Maidana - Inmobiliaria",
+            "TERRENO UNIFAMILIAR EN PINAR DEL GOLF-MONTE HERMOSO, SOBRE CALLE LA PALOMA.  ZONA RESIDENCIAL EXCLUSIVA (R13) - FOS 0.4 - FOT 0.6 - DENS. HAB./ha. 100. MEDIDAS- FRENTE (ESTE): 15,51MS.-LATERAL SUR: 29,22 MS.-LATERAL NORTE: 28,35 MS.-FONDO (OESTE): 15,5 MS. SUPERFICIE TOTAL: 446 MS2. SE ENCUENTRA A 12 CUADRAS DEL CENTRO DE MONTE HERMOSO, A 6 CUADRAS DEL CENTRO COMERCIAL DE ALDEA DEL ESTE Y A 600 METROS DEL MAR. ENTORNO TRANQUILO Y ARBOLADO. *SERVICIO DE LUZ Y AGUA. Grupo Maidana - Inmobiliaria",
             {
                 "entities": [
                     [
-                        119,
-                        126,
+                        122,
+                        129,
                         "FOT"
                     ],
                     [
-                        148,
-                        250,
+                        153,
+                        255,
                         "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "CENTURY 21 VENDE:  Lote de 400 M2, con 10 metros de frente y 40 metros de fondo. Se vende con proyecto aprobado por la Municipalidad, apto para 3 dúplex de 4 ambientes, con jardín y cochera.  Excelente oportunidad en Villa Adelina, partido de Vicente López. Está ubicado sobre la calle Marcos Sastre, entre calles Av. Ader, Rafael Obligado, José Ingenieros y Cap. Cajaraville.  Zona cercana a polo comercial y gastronómico, plazas, parques y medios de transporte. Cercanía con estaciones de tren Belgrano Norte Villa Adelina y Carapachay.  ** Indicadores Urbanísticos **  FOS: 0,6 FOT + Premios: 1,0 Total a construir: 460 M2 aproximadamente.  Planos a disposición de los interesados.  Todas las medidas son aproximadas al solo efecto orientativo. Las medidas exactas serán las que surjan del título de propiedad. Las fotografías y videos no son contractuales. No se encuentran incluidos en el precio publicado los equipos de aire acondicionado, electrodomésticos, artefactos de iluminación ni accesorios que pudieran estar mencionados en la descripción o ilustrados en fotografías. Únicamente quedarán incluidos en el precio aquellos ítems que surjan de la reserva a conformar entre las partes. Si hubiera valores de expensas y/o impuestos detallados, los mismos son aproximados y sujetos a modificación. En caso de venta, la operación está sujeta a la tramitación del Código de Oferta de Transferencia de Inmuebles (COTI) por parte del propietario.  La intermediación y la conclusión de las operaciones son llevadas a cabo por los profesionales matriculados de PREMIER REAL ESTATE S.A. M. Annoni CUCICBA 6771 - P. Kaminsky CUCICBA 7753/CMCPSI 6665. Cada Oficina es de Propiedad y Operación Independiente.",
+            {
+                "entities": [
+                    [
+                        39,
+                        80,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        581,
+                        598,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "[RETASADO] MAR AZUL PARTIDO DE VILLA GESELL CONJUNTAMENTE CON LAS LOCALIDADES DE LAS GAVIOTAS Y MAR DE LAS PAMPAS LOTE UNIFAMILIAR RESIDENCIAL MANZANA 344 LOTE 23 10 METROS DE FRENTE POR 47,50 METROS DE FONDO CADA UNO CON FRENTE A CALLE 42 ENTRE CALLES MIRAMAR Y SAN CLEMENTE DEL TUYU A 10 CUADRAS DE LA PLAYA FOS 0,25 FOT 0,40 DENSIDAD HABITANTES POR HECTAREA 130 APTOS PARA CONSTRUIR EN CADA UNO UNA CASA DE 190M2 SOBRE BASAMENTO DE 118M2   Ref#403175.",
+            {
+                "entities": [
+                    [
+                        143,
+                        162,
+                        "DIR_LOTE"
+                    ],
+                    [
+                        163,
+                        208,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        319,
+                        327,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "FOT 1 FOS 0.6\n649,58 MTS TOTAL\n2 LOTES UNIFICADOS DE 12.16 X 31.20\nQUINCHO Y GARAGE (60 M2) A DEMOLER.\nTODOS LOS SERVICIOS.\nZONA RESIDENCIAL CON MUY BUEN POTENCIAL.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "FOT"
+                    ],
+                    [
+                        53,
+                        66,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "EXCELENTE CASA EN VENTA EN PLENO LANUS ESTE!!! IDEAL INVERSOR- EMPRENDIMIENTO INMOBILIARIO, LOTE DE 8,66 X 34 DE FONDO. FOT 3. Apto vivienda a remodelar, emprendimiento inmobiliario, uso profesional, etc. Se aceptan propiedades en permuta. El inmueble posee: Garage, Patio, Quincho, 2 dormitorios, 2 baños, Cocina, Living, Comedor. 8,66x34,08.   ",
+            {
+                "entities": [
+                    [
+                        92,
+                        109,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        120,
+                        126,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Excelente esquina  con FOT 2,.",
+            {
+                "entities": [
+                    [
+                        23,
+                        28,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Polo industrial : amplio, seguro, con todos los servicios. . Situado en el corazón del Partido de Ezeiza, su cercanía al aeropuerto internacional le garantiza acceso inmediato a una completa red de autopistas, en la que destaca la AU Ezeiza-Cañuelas, la AU Ricchieri y la AU Presidente Perón (continuación del Camino del Buen Ayre), actualmente en construcción. Proximidad al  puerto de Buenos Aires Cerco perimetral.  Industrial categoría 3       FOS y FOT 0.6  Gas Y F. Motriz Disponibles 5000 a m2  venta total o parcial Posibilidad de financiacion  Estado: OPERATIVO. Empresas Operando: 70. Empresas en proceso de radicación: 100Parque industrial Ubicación estratégica 40km de Capital Federal por autopista (30 min.) 10km del Aeropuerto de Ezeiza (10 min.) 45km de Panamericana (35 min.) 45km del Puerto de Buenos Aires (40 min.) ",
+            {
+                "entities": [
+                    [
+                        454,
+                        461,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "VENTA: Terreno Orientacion NE en Barrio Los Puentes -Nordelta con Vistas al Agua y Salida Directa al Lago. Superficie 1028,71m2  Estás a punto de descubrir una oportunidad inigualable para construir tu hogar de ensueño en uno de los lugares más exclusivos de Nordelta. Este magnífico terreno con vistas al agua y salida directa al lago central se encuentra en el prestigioso Barrio Los Puentes, ubicado sobre la Avenida de los Lagos, entre el Centro Cívico y el Barrio La Isla. Características Destacadas: Ubicación Privilegiada: El terreno se encuentra estratégicamente situado en Los Puentes, uno de los barrios más selectos de Nordelta, lo que garantiza un entorno de lujo, servicios y seguridad. Con la cercanía de Colegios: Northlands, Michael Ham, Cardenal Pironio (Grupo Educativo Marín), St. Luke's, Northfield School y próximamente ORT. Centro Comercial con más de 70 locales, 5 salas de cine, 10 restaurantes y 4 bancos. 3 Centro Médico Nordelta (Sanatorio Las Lomas) y próximamente Swiss Medical. Puerto Bahía Grande 14 restaurantes a orillas del canal mayor del Rio Luján, Hotel 5 Estrellas. 5 Nordelta Golf Club 18 hoyos diseñada por Jack Nicklaus, 3 veces sede del Abierto de la República. 6 Club Nordelta gimnasio, tenis, fútbol, náutica, entre otras actividades. • Vistas Espectaculares: Disfruta de vistas panorámicas al lago central que te brindarán un ambiente de tranquilidad y serenidad inigualables. • Acceso Directo al Agua: Con esta propiedad, tendrás la oportunidad de vivir junto al agua, con acceso directo al lago para actividades como navegación, kayak o simplemente relajarte en la orilla. • Tecnología y Seguridad Avanzadas: Los Lagos es conocido por su inversión en tecnología de seguridad de vanguardia, lo que te proporcionará la tranquilidad que mereces. Además, el diseño arquitectónico del barrio garantiza una experiencia de vida única. • Áreas Deportivas y Espacios Comunes: Disfruta de las instalaciones deportivas de primer nivel y áreas comunes, que incluyen un Club House de alto nivel y una guardia las 24 horas. Orientación:]. Uso de Suelo: FOS 35%, FOT 60%  Si estás interesado en esta oportunidad única o deseas obtener más información, no dudes en contactarnos. No dejes pasar esta oportunidad. ¡Tu hogar de ensueño te espera!  Construyendo Relaciones. -  Mat.",
+            {
+                "entities": [
+                    [
+                        375,
+                        393,
+                        "NOMBRE_BARRIO"
+                    ],
+                    [
+                        2095,
+                        2102,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Galpón, viviendas y oficinas: ubicado en zona Industrial dentro de del Partido de Tigre a cuadra y media de ruta 197 y de la Av. Crisólogo Larralde, el acceso a Tigre esta a pocas cuadras. Esta propiedad consta de un amplio lote de 20 mts. de frente por 52 mts. de fondo (son 2 lotes), el galpón se encuentra al fondo de uno de los lotes y tiene una superficie de 260 m2, se puede ampliar o construir otra nave en el fondo del otro lote. Hay dos casas al frente con cocheras y dos locales, también hay un par de oficinas y/u viviendas, esas unidades suman unos 400 m2 aproximadamente. Hay medidores de luz y de gas natural, agua de red, hay asfalto y se encuentra a muy pocos pasos de la Delegación Municipal, es una zona muy segura. (Zona Industrial  I2  FOS 0.60    FOT 1.20)",
+            {
+                "entities": [
+                    [
+                        224,
+                        270,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        768,
+                        776,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote de 300 m2, con medidas 10 x 30, Próximo a Plaza Malvinas y Diag. 73.\nTodos los servicios.\nZonificación :U/C2\nFOS 0,6\nALTURA REFERENCIA EN NIVELES 6\nFOT COMERCIAL 2,7\nFOT RESIDENCIAL 2,25\nDENSIDAD COMERCIAL 1800\nDENSIDAD RESIDENCIAL 900\nPREMIOS 50%\nMETROS EDIFICABLES 1012.\nDORMITORIOS 20",
+            {
+                "entities": [
+                    [
+                        20,
+                        35,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        153,
+                        170,
+                        "FOT"
+                    ],
+                    [
+                        171,
+                        191,
+                        "FOT"
+                    ],
+                    [
+                        241,
+                        252,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "LOTE DE 8.66X25.98 CON LOSA\nZONIFICACION U1 A2\nFOS 0.60\nFOT 1.60\nDENSIDAD 400 HABITANTES",
+            {
+                "entities": [
+                    [
+                        0,
+                        18,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        56,
+                        64,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Excelente lote sobre Colectora sur de Acceso Oeste con casi 80 mtrs de frente, gran visibilidad. Según zonificación C3A1, FOS 0.6 Y FOT 3.0, permite el uso comercial y residencial con una altura máxima de 27 mtrs. lo que da una sup. a construir de 2.910m2. Dado que se encuentra a pasos del polo comercial y gastronómico de Martín Fierro que está en constante expansión es una gran oportunidad para desarrollos comerciales y residenciales con una muy baja incidencia. EVALÚAN TOMAR PROPIEDAD O VEHICULO EN PARTE DE PAGO\nServicios:\nPavimento",
+            {
+                "entities": [
+                    [
+                        132,
+                        139,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "SE TRATA DE DOS CASAS SOBRE UN LOTE DE 8,66 X 26. PH AL FRENTE CON ENTRADA DE AUTOS DE 3 AMBIENTES PARA RESTAURAR. PH AL FONDO EN DOS PLANTAS. PB LIVING COMEDOR, COCINA, BAÑO, PATIO. PA: 3 DORMITORIOS, BAÑO, SALIDA A LA TERRAZA. ES IDEAL PARA CONSTRUIR, LA ZONA ESTA EN PLENO CRECIMIENTO DE MUCHOS EDIFICIOS. IMPORTANTE CUENTA CON CLOACA Y EL FOT ES DE 2.5 SE PUEDEN CONSTRUIR 8 PISOS. TOMO DEPARTAMENTO TERMINADO O METROS EN EL EMPRENDIMIENTO Y DIFERENCIA EN EFECTIVO. ESCUCHO PROPUESTAS.",
+            {
+                "entities": [
+                    [
+                        31,
+                        48,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        343,
+                        356,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ubicación: Ingeniero Boatti S/N° entre Av. Rivadavia y Alte. Brown, Morón Centro, Partido de Morón, Pcia. de Buenos Aires.- Tinglado sobre terreno con un frente de aproximadamente unos 13,90 metros por 45,32 metros de fondo.- Zonificación: MC, FOT 3 FOS 0,6.-",
+            {
+                "entities": [
+                    [
+                        21,
+                        80,
+                        "DIR_ENTRE"
+                    ],
+                    [
+                        154,
+                        223,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        244,
+                        249,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Unico lote en la zona, de buenas dimensiones 187m2 totales , con peque;a construcción de 35m2 aprox,\nTodos los servicios sobre pavimento . Zona comercial/residencial R2Q FOS 0,6 FOT 1,5\nSe deja constancia que las medidas, superficies metros cuadrados y expensas consignadas son aproximadas y no resultan vinculantes, sujetos a verificación por el interesado en adquirir.\nEl precio del inmueble puede ser modificado sin previo aviso. Fotos de carácter no contractual.\nEn cumplimiento de la leyes provinciales vigentes que regulan el corretaje inmobiliario, Ley de Lealtad Comercial, Ley de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los asesores comerciales no ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte de la martillera y corredora colegiada, Noelia Young colegiada numero ( trescientos treinta y tres) CPMCAL.\nLa publicación de este inmueble es a solo título informativo, pues la venta de la propiedad está supeditada a la aceptación del propietario y que este cumplimente el trámite ante la AFIP para la obtención del n de COTI correspondiente, para dar cumplimiento a la resolución general (nro. dos mil trescientos setenta y uno) de AFIP.",
+            {
+                "entities": [
+                    [
+                        178,
+                        185,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Venta de lote de 860 m2 en 465 e/ Cno. Belgrano y 21. Sus medidas son, 14.50 mt de frente por 51 m2 de fondo. Ideal para desarrollar complejo de viviendas o comercial. El lote se encuentra emplazado a media cuadra de Cno Gral. Belgrano y a metros de la calle 467. Según indicadores , la cantidad de dormitorios a desarrollar accede a 9 unidades. FOS 0,5 NIVELES 3 ( 9mt maximo) FOT 0,8 DENSIDAD 200 CUF 1 / 250 m2 Consultanos y coordinamos una visita.",
+            {
+                "entities": [
+                    [
+                        27,
+                        52,
+                        "DIR_ENTRE"
+                    ],
+                    [
+                        71,
+                        108,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        378,
+                        385,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Gran oportunidad de negocio, local en Martínez sobre Av. Santa Fe Lote de 242,25 m2, con 10 metros de frente y 23 de fondo. Superficie cubierta : 267,52 m2 a reciclar FOT : 1,8 FOS : 0,6 Posibilidad de Lote Lindero, 346 m2 de terreno. La venta de dicho inmueble está supeditada a que el propietario tramite ante la AFIP el C.O.T.I. Las medidas son aproximadas a título informativo las reales surgirán del título de propiedad.⁣",
+            {
+                "entities": [
+                    [
+                        89,
+                        122,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        167,
+                        176,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote apto Desarrollo!  Terreno Irregular 299m² totales con Edificiación a Demoler a Metros de la Estación Munro del tren General Belgrano. Lote irregular 10,39 x 25,52 D x 32,09 I Zonificación C5  FOS 0.6  FOT 2.0  Densidad Neta Maxima 500 habitantes por hectarea.  Hmax. *16.50m. para cubierta plana. *19.50m. para cubierta inclinada. Se permite PB y 4 plantas.  Retiros. *Frente. No se exige. *Fondo. Segun normas Patio de Manzanas 4.4.2 *Laterales. No se exige.  *Uso Predominante Comercial Minorista, administrativo y residencial de mediana alta densidad. *Uso Complementario Segun 6.5.3, Vivienda colectiva / Vivienda Mutifamiliar.   Servicios:  Cloacas, Gas",
+            {
+                "entities": [
+                    [
+                        139,
+                        153,
+                        "IRREGULAR"
+                    ],
+                    [
+                        154,
+                        179,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        206,
+                        213,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "¡Oportunidad única! Tenemos a la venta un excelente terreno de 555 m2 en Garibaldi, entre Alberdi y San Lorenzo, en la hermosa ciudad de Tandil. Este terreno cuenta con 12,82 metros de frente y 43,30 metros de fondo, lo que permite la construcción de hasta 14 unidades funcionales de 1 dormitorio. Además, posee todos los servicios disponibles, lo que lo convierte en una opción con un gran potencial. La ubicación de este terreno es realmente privilegiada. Se encuentra a tan solo una cuadra de la Avenida España y a una cuadra y media de la Avenida Perón, lo que lo sitúa muy cerca del centro comercial de la ciudad de Tandil y a pocas cuadras del famoso Calvario. Además, cuenta con medios de transporte cercanos, lo que garantiza una excelente conectividad. Zonificación: Barrios a densificar, FOS (Factor de Ocupación del Suelo) de 0.6, FOT (Factor de Ocupación Total) de 1.8, Densidad neta de 520 Altura máxima permitida de 13.5 metros. Estas características permiten un amplio margen de posibilidades para la construcción. ¡No pierdas esta increíble oportunidad! Se escuchan ofertas razonables. Contáctanos cuanto antes para obtener más información. ¡No dejes pasar esta oportunidad de inversión en una de las zonas más exclusivas de Tandil!",
+            {
+                "entities": [
+                    [
+                        169,
+                        215,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        842,
+                        880,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Corredor Responsable: LAURA PALINI CSM 2733 / CPI 7752 -\nContacto: Magdalena Camerlinckx\nEXCELENTE LOTE IDEAL INVERSOR DE 1540 MT. SE ENCUENTRA UBICADO SOBRE LA CALLE SARMIENTO ENTRE LAS HERAS Y CONESA.\nA TAN SOLO 50 MTS DE PLAZA DE LAS CARRETAS, Y A 100 MTS DE ESTACION MUÑIZ\nFRENTE DE 34,64 M. FONDO 44.55 M\nSOBRE 4 PARCELAS QUE CONFORMAN UN TOTAL DE 1,500 MTS\nDATOS:\nZONIFICACION MI 1\nDENSIDAD 1500 HABITANTES\nFOT 3\nFOS 0,6\nPLANTA BAJA MAS 12 NIVELES POR VOLUMENES S/ PREMIOS O PB MAS 14 NIVELES POR VOLUMENES POR PRECIO.\nIDEAL PARA DESARROLLAR UN EMPRENDIMIENTO DE MAS DE 4500 MTS, CON COMERCIOS Y DEPARTAMENTO DE USO RESIDENCIAL O COMERCIAL.\nPOR ANCHO DE PARCELA SE PUEDE ACCEDER A PREMIOS SEGÚN DE AJUSTE EL PROYECTO.\nLAS MEDIDAS SON APROXIMADAS.\nSI TE DAN GANAS DE VISITARLO LLAMAME O MANDAME UN MENSAJE Y ME COMUNICO CON VOS !\nFINANCIA HASTA EL 30% Compra la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en la página de Lendar (lendar. com. ar) SI TENES QUE VENDER PARA COMPRAR PODEMOS AYUDARTE Y REALIZAR LA OPERACIÓN SIMULTÁNEA. BENEFICIO PARA CLIENTES REMAX: Si compás tu casa con RE/MAX y te falta hasta un 30% del valor podés acceder a un préstamo a través de LENDAR con mínimos requisitos y aprobación en sólo 7 días hábiles! El trámite es 100% online y sin bancos! Podes hacer la simulación de las cuotas y calcular vos tu préstamo. Conocé más sobre LENDAR en su página www. lendar. com. ar ALCANZÁ LO QUE SOÑAS !!!! MUDATE A LA VIDA QUE QUERES\nRemax Argentina S.R.L. no ejerce el corretaje inmobiliario. El presente sitio web es una plataforma en donde cada oficina inmobiliaria independiente que contrata los servicios RE/MAX puede publicar las propiedades a su cargo. Cada oficina es de propiedad y gestión independiente, por lo que Remax Argentina S.R.L no interviene en los datos de la publicación, en la operación inmobiliaria, ni en la confección y/o firma del boleto de compraventa y/o escritura y/o contrato de alquiler. En cumplimiento de las leyes vigentes que regulan el corretaje inmobiliario, Ley Nacional 25.028, Ley 22.802 de Lealtad Comercial, Ley 24.240 de Defensa al Consumidor, las normas del Código Civil y Comercial de la Nación y Constitucionales, los agentes/gestores NO ejercen el corretaje inmobiliario. Todas las operaciones inmobiliarias son objeto de intermediación y conclusión por parte del corredor público inmobiliario colegiado a cargo de la publicación, cuyos datos se exhiben en la presente. La presente publicación describe las características esenciales del inmueble, debiéndose consultar al corredor público inmobiliario responsable de la operación por la eventual actualización de las medidas, descripciones arquitectónicas y funcionales, valores de expensas, servicios, impuestos, precios y demás información, cuyos valores son aproximados.\nComprá la casa que querés! No la que podés. Accedé a un préstamo por hasta el 30% del valor de esta propiedad. Simulá tu cuota en Lendar.",
+            {
+                "entities": [
+                    [
+                        277,
+                        309,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        413,
+                        418,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "PABLO NOGUÉS - MALVINAS ARGENTINAS - CÓDIGO 0238 TV Terreno de 11.000 m² perimetrado, zona de consolidación de empresas. Muy cerca de 197, distancia a Au. Panamericana 1500 mts, próximo a Ruta 8 (Presidente Illía). Zonificación: Industrial 3 (Apto Industrias, Logística ). FOS 0.6 - FOT 1.2. Servicios Gas Industrial.",
+            {
+                "entities": [
+                    [
+                        283,
+                        290,
+                        "FOT"
                     ]
                 ]
             }
