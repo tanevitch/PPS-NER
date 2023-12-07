@@ -17,7 +17,7 @@ def cargar_archivos():
             "IRREGULAR",
             "DIR_LOTE"
         ], "annotations": []}
-    files = ['anotaciones1y2.json', 'anotaciones3.json', 'anotaciones4.json']
+    files = ['anotaciones1y2.json', 'anotaciones3.json', 'anotaciones4.json', 'anotaciones5.json']
     for file in files:
         with open(file, 'r', encoding='utf-8') as f:
             my_json["annotations"] += json.load(f)["annotations"]
@@ -51,6 +51,7 @@ def entrenar(data, filename: str):
 
 
 def particionar(data):
+    # entrenar(data["annotations"], "train_data")
     train, test = train_test_split(data["annotations"], test_size=0.2)
     entrenar(train, "train_data")
     entrenar(test, "test_data")
