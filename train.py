@@ -17,7 +17,7 @@ def cargar_archivos():
             "IRREGULAR",
             "DIR_LOTE"
         ], "annotations": []}
-    files = ['anotaciones1y2.json', 'anotaciones3.json', 'anotaciones4.json', 'anotaciones5.json']
+    files = ['anotaciones1y2.json', 'anotaciones3.json', 'anotaciones4.json', 'anotaciones5.json', 'anotaciones_entre.json']
     for file in files:
         with open(file, 'r', encoding='utf-8') as f:
             my_json["annotations"] += json.load(f)["annotations"]

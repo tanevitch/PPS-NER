@@ -1,0 +1,269 @@
+{
+    "classes": [
+        "FOT",
+        "DIR_CALLE_ALTURA",
+        "DIR_INTERSECCION",
+        "DIR_ENTRE",
+        "DIR_OTROS",
+        "DIMENSIONES",
+        "NOMBRE_BARRIO",
+        "CANT_FRENTES",
+        "IRREGULAR",
+        "DIR_LOTE"
+    ],
+    "annotations": [
+        [
+            "Ideal emprendimiento multifamiliar. Lote de 361m2 con un frente de 8,66m x 41/45m de fondo lote irregular hacia el fondo\r\nZonificación R2  PB + 3 PISOS. FOT 1.5 FOS 0.6",
+            {
+                "entities": [
+                    [
+                        57,
+                        90,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        91,
+                        105,
+                        "IRREGULAR"
+                    ],
+                    [
+                        153,
+                        160,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Terreno de forma irregular con categoría INDUSTRIAL, con muy buen frente sobre colectora Norte autopista Lujan -Bragado. Según C.O.U de Lujan AC1 Uso Dominante: Industrial, Subdominante Comercial y Complementario: Residencial , Institucional. Construcción:  Altura máxima 12 mts y 2 plantas. FOS 0,5 FOT 1, Parcelas mínimas 3000 m2 c/u.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Excelente lote en esquina de 36,66 x 26,30 Metros en zona multifamiliar, ubicado a 200 metros de la Estación de Merlo del lado norte. IDEAL INVERSOR  DETALLES DEL LOTE  F.O.S: 0.6 546,93 M2 F.O.T: 1.0 911,55 M2 Altura máxima: 9,50 Metros  Premio Esquina: 40,00% a la densidad Premio ancho de Frente: 25% a la densidad y FOT Premio Menor FOS 10,00% a la densidad y FOT  PREMIO TOTAL: 70,00% a la densidad y 35% al FOT  Nueva Densidad: 425 hab/HA (39 personas) Nuevo FOS: 437,54 M2 Nuevo FOT: 1,35: 1.230,59 M2 (410,00 M2 por piso)  Cantidad de habitantes: 39 personas con premio Cantiidad de dormitorios: 19 dormitorios  1 local  ESCUCHA OFERTAS  Servicios:  Cloacas, Gas  Características:  Alambrado perimetral",
+            {
+                "entities": [
+                    [
+                        10,
+                        25,
+                        "IRREGULAR"
+                    ],
+                    [
+                        29,
+                        49,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        190,
+                        210,
+                        "FOT"
+                    ],
+                    [
+                        364,
+                        389,
+                        "FOT"
+                    ],
+                    [
+                        486,
+                        508,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Fracción ideal emprendimiento de 1000 m2 de terreno en zona de edificación en altura FOS 0.6 - FOT 2.4 Casa estilo antiguo reciclada a nuevo con ambientes grandes y luminosos. La propiedad cuenta con gran living comedor integrado - cocina comedor estilo vintage - tres dormitorios uno de ellos en suite - baño completo - gran parque libre con piscina totalmente arbolado - quincho con baño y parrilla Difusión",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Nave con detalles de categoria de 2000 m2 (32 x 64 ms) sobre lote de 4000 m2 con 400 m2 de oficinas dentro del parque industrial PIBERA, Berazategui, El Pato. La nave esta realizada en estructura de alma llena sin columnas, paredes de 3,60, altura de 9 ms al apoyo y 10,5 a la cumbrera, dos portones con cortinas eléctricas con alero, piso de hormigón de alta resistencia, ventilación, iluminación de led con bandejas y cableado con posibilidad de correr las luminarias de acuerdo al layout de trabajo. Tablero con térmicas, 4 puertas de salida. Baños y vestuarios completos, grifería de buena calidad, pisos y paredes revestidos en cerámica con puerta de salida de emergencia en esta área. Iluminación exterior, desagües bajo tierra, cámaras cloacales conectadas al sistema de efluentes del parque. Oficinas en dos plantas con excelente disposición estructural. Planta Baja: recepción con toilette y área administrativa con acceso a la nave. Planta alta: área administrativa con baño, espacio para cocina con bacha, oficina gerencial con baño privado. Cerramientos de aluminio, pisos de porcelanato, frente revestido en laja y vidrios espejados. Todos los servicios conectados, agua de red, tratamiento de efluentes del parque, en breve trifasica con tarifa 1. Acometida en la puerta del lote para conexion de gas. Ubicación: Acceso directo desde Ruta 2 Km 38, Berazategui, pegado al centro industrial Ruta 2 CIR 2. Considerado la mejor ubicación en materia de parques industriales del corredor Sur. A 30 minutos de CABA y con salida directa a la Ruta Prov Nro 36. Instalaciones comunes: Predio cerrado con seguridad las 24 hs, calles de H°A de 18 cm de espesor, iluminación, desagües pluviales. Servicios: Gas natural, Agua corriente, Energía, telefono y banda ancha para internet. Indicadores urbanísticos y características: Parque industrial aprobado por decreto provincial. Beneficios impositivos FOS 0.60 FOT 1.20 Para industrias de grado 1 y 2 (que traten sus efluentes y no sean volcados dentro del predio).",
+            {
+                "entities": [
+                    [
+                        43,
+                        53,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        111,
+                        135,
+                        "NOMBRE_BARRIO"
+                    ],
+                    [
+                        1348,
+                        1360,
+                        "DIR_OTROS"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Terreno de forma irregular con categoría INDUSTRIAL, con muy buen frente sobre colectora Norte autopista Lujan -Bragado. Según C.O.U de Lujan AC1 Uso Dominante: Industrial, Subdominante Comercial y Complementario: Residencial , Institucional. Construcción:  Altura máxima 12 mts y 2 plantas. FOS 0,5 FOT 1, Parcelas mínimas 3000 m2 c/u.",
+            {
+                "entities": [
+                    [
+                        0,
+                        26,
+                        "IRREGULAR"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Excelente lote en esquina de 36,66 x 26,30 Metros en zona multifamiliar, ubicado a 200 metros de la Estación de Merlo del lado norte. IDEAL INVERSOR  DETALLES DEL LOTE  F.O.S: 0.6 546,93 M2 F.O.T: 1.0 911,55 M2 Altura máxima: 9,50 Metros  Premio Esquina: 40,00% a la densidad Premio ancho de Frente: 25% a la densidad y FOT Premio Menor FOS 10,00% a la densidad y FOT  PREMIO TOTAL: 70,00% a la densidad y 35% al FOT  Nueva Densidad: 425 hab/HA (39 personas) Nuevo FOS: 437,54 M2 Nuevo FOT: 1,35: 1.230,59 M2 (410,00 M2 por piso)  Cantidad de habitantes: 39 personas con premio Cantiidad de dormitorios: 19 dormitorios  1 local  ESCUCHA OFERTAS  Servicios:  Cloacas, Gas  Características:  Alambrado perimetral",
+            {
+                "entities": [
+                    [
+                        10,
+                        25,
+                        "IRREGULAR"
+                    ],
+                    [
+                        29,
+                        42,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        190,
+                        210,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Fracción ideal emprendimiento de 1000 m2 de terreno en zona de edificación en altura FOS 0.6 - FOT 2.4 Casa estilo antiguo reciclada a nuevo con ambientes grandes y luminosos. La propiedad cuenta con gran living comedor integrado - cocina comedor estilo vintage - tres dormitorios uno de ellos en suite - baño completo - gran parque libre con piscina totalmente arbolado - quincho con baño y parrilla Difusión",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "Nave con detalles de categoria de 2000 m2 (32 x 64 ms) sobre lote de 4000 m2 con 400 m2 de oficinas dentro del parque industrial PIBERA, Berazategui, El Pato. La nave esta realizada en estructura de alma llena sin columnas, paredes de 3,60, altura de 9 ms al apoyo y 10,5 a la cumbrera, dos portones con cortinas eléctricas con alero, piso de hormigón de alta resistencia, ventilación, iluminación de led con bandejas y cableado con posibilidad de correr las luminarias de acuerdo al layout de trabajo. Tablero con térmicas, 4 puertas de salida. Baños y vestuarios completos, grifería de buena calidad, pisos y paredes revestidos en cerámica con puerta de salida de emergencia en esta área. Iluminación exterior, desagües bajo tierra, cámaras cloacales conectadas al sistema de efluentes del parque. Oficinas en dos plantas con excelente disposición estructural. Planta Baja: recepción con toilette y área administrativa con acceso a la nave. Planta alta: área administrativa con baño, espacio para cocina con bacha, oficina gerencial con baño privado. Cerramientos de aluminio, pisos de porcelanato, frente revestido en laja y vidrios espejados. Todos los servicios conectados, agua de red, tratamiento de efluentes del parque, en breve trifasica con tarifa 1. Acometida en la puerta del lote para conexion de gas. Ubicación: Acceso directo desde Ruta 2 Km 38, Berazategui, pegado al centro industrial Ruta 2 CIR 2. Considerado la mejor ubicación en materia de parques industriales del corredor Sur. A 30 minutos de CABA y con salida directa a la Ruta Prov Nro 36. Instalaciones comunes: Predio cerrado con seguridad las 24 hs, calles de H°A de 18 cm de espesor, iluminación, desagües pluviales. Servicios: Gas natural, Agua corriente, Energía, telefono y banda ancha para internet. Indicadores urbanísticos y características: Parque industrial aprobado por decreto provincial. Beneficios impositivos FOS 0.60 FOT 1.20 Para industrias de grado 1 y 2 (que traten sus efluentes y no sean volcados dentro del predio). ",
+            {
+                "entities": [
+                    [
+                        43,
+                        53,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        111,
+                        135,
+                        "NOMBRE_BARRIO"
+                    ]
+                ]
+            }
+        ],
+        [
+            "IDEAL CONSTRUCTOR\r\nLOTE EN ESQUINA EN SAN MARTIN. 292,3m2.Zonificacion RM",
+            {
+                "entities": [
+                    [
+                        19,
+                        34,
+                        "IRREGULAR"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Dos casas tipo dúplex de dos ambientes cada uno. Barrio residencial tranquilo y seguro. Ubicada en esquina en lote irregular, con 76 mts X 82 mts X 34 mts x 34 mts. Imagina despertarte cada mañana con el canto de los pájaros y el aroma de las flores.",
+            {
+                "entities": [
+                    [
+                        99,
+                        124,
+                        "IRREGULAR"
+                    ],
+                    [
+                        130,
+                        164,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "El lote cuenta con 646 mts2 de forma irregular, con 8,00 lineales sobre el margen de la vereda, un poco mas de 20,00 mts en su fondo y mas de 45 mts lineales en sus laterales.",
+            {
+                "entities": [
+                    [
+                        31,
+                        46,
+                        "IRREGULAR"
+                    ],
+                    [
+                        52,
+                        174,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Ubicación:- a 20 km Capital Federal por autopista (30 min.)- a 55 km Aeropuerto Ezeiza (40 min.)- a 50 km Panamericana (48 min.)- a 26 km Puerto de Bs. As. (22 min.)- a 34 km Ciudad de La Plata (35 min.)",
+            {
+                "entities": []
+            }
+        ],
+        [
+            " OPORTUNIDAD RETASADO!! LOTE DIVISIBLE!! CASA EN VENTA 6 AMBIENTES , con ASCENSOR Y RAMPA DISCAPACITADOS. ENTRE ELORTONDO Y AV. LIBERTADOR,  BECCAR Lote de 811 m2 totales de forma irregular. 40,54 metros de frente sobre calle Estanislao Diaz. Fondo 15,98 metros sobre lateral noreste.  24,87 metros sobre lateral suroeste. Zonificación RB2,  RESIDENCIAL EXCLUSIVO. FOS 0.45 - FOT 0.90 Casa tipo villa italiana en la mejor zona de Beccar, sobre Estanislao Diaz, a pocos metros de Libertador y Elortondo. impecable y de excelente calidad de construcción y mantenimiento, con frente orientado al este, con vistas a un jardín precioso. Tres plantas, planta baja, primera planta y basement con ventanas aire y luz. Planta Baja Gran galería al jardín. Hall de distribución, piso granito damero. Living con piso tarugado de viraró. Comedor con piso damero de granito. Cocina con muebles de cocina bajo mesada y alto mesada. Ascensor a basement y primer piso. Muy pintoresco jardín , en el extremo este se encuentra la cochera cubierta y el deposito/cuarto de herramientas. Al contrafrente de la casa tiene jardín, muy bonita galería techada orientada al oeste con accesos por rampa desde la entrada de servicio, y desde el jardín del frente. Quincho con cocina completa. Primer Piso Se accede al primer piso por escalera hacia una señorial caja escalera y muy importante salón con pisos tarugados de viraró. Dos suites. Una con increíble vestidor de puertas lustradas de caoba, baño con bañera, gran dormitorio con vista al jardín. Segunda suite, con vestidor, armario empotrado en caoba de forma redondeada, baño con ducha. Equipo aire acondicionado split en ambas habitaciones. Cuarto de guarda, baulera. Basement Play room de gran dimensión con pisos porcelanato Toilette de recepción completo con ducha y guardarropas. Amplio departamento de servicio/ 3er dormitorio con vestidor con misma calidad de carpintería de la casa y baño completo. Gran lavadero, revestidos de armarios. Ascensor. Cuarto de máquinas con termotanque, y equipo central de calefacción. Puertas, ventanas, y toda la carpintería de caoba lustrada a mano. Frente de ladrillo, techo de teja colonial Ventanas con postigones Caldera y radiadores. Calefacción central. Aire acondicionado split en todas las habitaciones y en el playroom. Tres entradas, principal y de servicio, ambas con acceso para discapacitado, y entrada para vehículo.   M. F. De Diego - CMCPSI 6748 La tasación, intermediación y conclusión de las operaciones sobre esta propiedad son actividades exclusivas del corredor matriculado, conforme las previsiones de la Ley 20.266, la Ley provincial 10.973 y sus modificatorias, y las normas reglamentarias dictadas por los Colegios Profesionales. Las medidas indicadas son aproximadas y al solo efecto orientativo, las medidas reales surgirán del Título de Propiedad respectivo.",
+            {
+                "entities": [
+                    [
+                        112,
+                        138,
+                        "DIR_INTERSECCION"
+                    ],
+                    [
+                        174,
+                        189,
+                        "IRREGULAR"
+                    ],
+                    [
+                        376,
+                        384,
+                        "FOT"
+                    ],
+                    [
+                        479,
+                        501,
+                        "DIR_INTERSECCION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "VENTA: EspectacularTerreno Lote 107 Orientacion NE - en Barrio Los Puentes -Nordelta con Vistas al Agua y Salida Directa al Lago. Superficie 1028,71m2",
+            {
+                "entities": [
+                    [
+                        7,
+                        36,
+                        "DIR_LOTE"
+                    ],
+                    [
+                        57,
+                        75,
+                        "NOMBRE_BARRIO"
+                    ]
+                ]
+            }
+        ],
+        [
+            "SE TRATA DE UN TERRENO IRREGULAR DE 537 METROS CON 10,80 DE FRENTE\r\nFRENTE NUEVO CON PARED TIPO LADRILLO RETACK CON PORTON AUTOMATICO. CASA DE 70 METROS RECICLADA A NUEVO",
+            {
+                "entities": [
+                    [
+                        15,
+                        32,
+                        "IRREGULAR"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
