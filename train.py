@@ -15,9 +15,11 @@ def cargar_archivos():
             "NOMBRE_BARRIO",
             "CANT_FRENTES",
             "IRREGULAR",
-            "DIR_LOTE"
+            "DIR_LOTE",
+            "PILETA",
+            "ESQUINA"
         ], "annotations": []}
-    files = ['anotaciones1y2.json', 'anotaciones3.json', 'anotaciones4.json', 'anotaciones5.json', 'anotaciones_entre.json']
+    files = ['anotaciones1y2.json', 'anotaciones3.json', 'anotaciones4.json', 'anotaciones5.json', 'anotaciones_entre.json', 'annotations_textos.json']
     for file in files:
         with open(file, 'r', encoding='utf-8') as f:
             my_json["annotations"] += json.load(f)["annotations"]
@@ -53,11 +55,11 @@ def entrenar(data, filename: str):
 def particionar(data):
     # entrenar(data["annotations"], "train_data")
     train, test = train_test_split(data["annotations"], test_size=0.2)
-    entrenar(train, "train_data")
-    entrenar(test, "test_data")
+    entrenar(train, "train_data_dir_merge")
+    entrenar(test, "test_data_dir_merge")
 
-cargar_archivos()
-train_data= json.load(open("anotaciones.json", 'r', encoding='utf-8'))
+# cargar_archivos()
+train_data= json.load(open("anotaciones_merged.json", 'r', encoding='utf-8'))
 particionar(train_data)
 
 

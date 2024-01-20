@@ -1,15 +1,11 @@
 {
     "classes": [
         "FOT",
-        "DIR_CALLE_ALTURA",
-        "DIR_INTERSECCION",
-        "DIR_ENTRE",
-        "DIR_OTROS",
+        "DIRECCION",
         "DIMENSIONES",
         "NOMBRE_BARRIO",
         "CANT_FRENTES",
         "IRREGULAR",
-        "DIR_LOTE",
         "PILETA",
         "ESQUINA"
     ],
@@ -21,7 +17,7 @@
                     [
                         30,
                         53,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         207,
@@ -118,7 +114,7 @@
                     [
                         44,
                         85,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         93,
@@ -140,7 +136,7 @@
                     [
                         43,
                         101,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         153,
@@ -162,7 +158,7 @@
                     [
                         53,
                         67,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         140,
@@ -196,12 +192,12 @@
                     [
                         0,
                         10,
-                        "DIR_LOTE"
+                        "DIRECCION"
                     ],
                     [
                         235,
                         283,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         997,
@@ -387,7 +383,7 @@
                     [
                         193,
                         233,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         874,
@@ -404,7 +400,7 @@
                     [
                         54,
                         62,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         64,
@@ -572,7 +568,7 @@
                     [
                         280,
                         375,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         581,
@@ -589,7 +585,7 @@
                     [
                         143,
                         162,
-                        "DIR_LOTE"
+                        "DIRECCION"
                     ],
                     [
                         163,
@@ -599,7 +595,7 @@
                     [
                         231,
                         284,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         319,
@@ -708,7 +704,7 @@
                     [
                         47,
                         72,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         158,
@@ -759,7 +755,7 @@
                     [
                         193,
                         233,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         874,
@@ -781,7 +777,7 @@
                     [
                         54,
                         62,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         64,
@@ -813,7 +809,7 @@
                     [
                         53,
                         67,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         98,
@@ -881,7 +877,7 @@
                     [
                         240,
                         298,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         377,
@@ -949,7 +945,7 @@
                     [
                         146,
                         161,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         726,
@@ -1027,7 +1023,7 @@
                     [
                         30,
                         61,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         371,
@@ -1073,7 +1069,7 @@
                     [
                         56,
                         74,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         313,
@@ -1311,7 +1307,7 @@
                     [
                         108,
                         163,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         386,
@@ -1328,7 +1324,7 @@
                     [
                         26,
                         50,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         232,
@@ -1375,7 +1371,7 @@
                     [
                         20,
                         34,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         264,
@@ -1449,7 +1445,7 @@
                     [
                         33,
                         61,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         101,
@@ -1483,7 +1479,7 @@
                     [
                         33,
                         52,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         143,
@@ -1522,7 +1518,7 @@
                     [
                         628,
                         655,
-                        "DIR_LOTE"
+                        "DIRECCION"
                     ],
                     [
                         665,
@@ -1561,7 +1557,7 @@
                     [
                         0,
                         14,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         266,
@@ -1583,7 +1579,7 @@
                     [
                         135,
                         148,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         150,
@@ -1651,7 +1647,7 @@
                     [
                         48,
                         87,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         88,
@@ -1678,7 +1674,7 @@
                     [
                         102,
                         151,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -1804,7 +1800,7 @@
                     [
                         172,
                         223,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -1845,7 +1841,7 @@
                     [
                         0,
                         36,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         38,
@@ -1996,7 +1992,7 @@
                     [
                         43,
                         56,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         68,
@@ -2050,7 +2046,7 @@
                     [
                         275,
                         304,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         344,
@@ -2176,7 +2172,7 @@
                     [
                         204,
                         230,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         697,
@@ -2220,12 +2216,12 @@
                     [
                         43,
                         57,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         88,
                         121,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         131,
@@ -2338,7 +2334,7 @@
                     [
                         11,
                         40,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         104,
@@ -2378,7 +2374,7 @@
                     [
                         32,
                         51,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         224,
@@ -2546,7 +2542,7 @@
                     [
                         143,
                         162,
-                        "DIR_LOTE"
+                        "DIRECCION"
                     ],
                     [
                         163,
@@ -2733,7 +2729,7 @@
                     [
                         21,
                         80,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         154,
@@ -2767,7 +2763,7 @@
                     [
                         27,
                         52,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         71,
@@ -2874,7 +2870,7 @@
                     [
                         41,
                         83,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         523,
@@ -2906,7 +2902,7 @@
                     [
                         310,
                         352,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -2930,7 +2926,7 @@
                     [
                         30,
                         51,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         250,
@@ -2979,7 +2975,7 @@
                     [
                         123,
                         148,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         176,
@@ -2996,7 +2992,7 @@
                     [
                         57,
                         95,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         118,
@@ -3028,7 +3024,7 @@
                     [
                         595,
                         672,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -3040,7 +3036,7 @@
                     [
                         164,
                         186,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         250,
@@ -3074,7 +3070,7 @@
                     [
                         42,
                         71,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         2214,
@@ -3137,7 +3133,7 @@
                     [
                         103,
                         131,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         352,
@@ -3181,7 +3177,7 @@
                     [
                         200,
                         241,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         821,
@@ -3271,7 +3267,7 @@
                     [
                         146,
                         161,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         946,
@@ -3344,7 +3340,7 @@
                     [
                         30,
                         61,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         368,
@@ -3373,7 +3369,7 @@
                     [
                         176,
                         223,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         1323,
@@ -3390,7 +3386,7 @@
                     [
                         56,
                         74,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         311,
@@ -3429,7 +3425,7 @@
                     [
                         37,
                         83,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         448,
@@ -3451,7 +3447,7 @@
                     [
                         295,
                         311,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -3518,7 +3514,7 @@
                     [
                         174,
                         198,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -3649,7 +3645,7 @@
                     [
                         42,
                         61,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         272,
@@ -3763,7 +3759,7 @@
                     [
                         20,
                         31,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         313,
@@ -3797,7 +3793,7 @@
                     [
                         45,
                         86,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         104,
@@ -3865,7 +3861,7 @@
                     [
                         97,
                         128,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         249,
@@ -3945,7 +3941,7 @@
                     [
                         42,
                         73,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         663,
@@ -4014,7 +4010,7 @@
                     [
                         120,
                         133,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         227,
@@ -4031,12 +4027,12 @@
                     [
                         86,
                         105,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         122,
                         144,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         255,
@@ -4085,7 +4081,7 @@
                     [
                         1440,
                         1457,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -4097,7 +4093,7 @@
                     [
                         55,
                         69,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         313,
@@ -4119,7 +4115,7 @@
                     [
                         20,
                         41,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         561,
@@ -4165,7 +4161,7 @@
                     [
                         32,
                         77,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         104,
@@ -4175,7 +4171,7 @@
                     [
                         643,
                         655,
-                        "DIR_LOTE"
+                        "DIRECCION"
                     ],
                     [
                         665,
@@ -4197,7 +4193,7 @@
                     [
                         1064,
                         1085,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -4226,7 +4222,7 @@
                     [
                         309,
                         333,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -4238,7 +4234,7 @@
                     [
                         122,
                         159,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         388,
@@ -4260,7 +4256,7 @@
                     [
                         47,
                         62,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         135,
@@ -4316,7 +4312,7 @@
                     [
                         108,
                         163,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         386,
@@ -4333,7 +4329,7 @@
                     [
                         26,
                         50,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         230,
@@ -4385,7 +4381,7 @@
                     [
                         20,
                         34,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         264,
@@ -4412,17 +4408,17 @@
                     [
                         1425,
                         1441,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         1501,
                         1519,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         1540,
                         1551,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -4480,7 +4476,7 @@
                     [
                         33,
                         61,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         102,
@@ -4497,7 +4493,7 @@
                     [
                         25,
                         53,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         116,
@@ -4633,7 +4629,7 @@
                     [
                         918,
                         972,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -4645,7 +4641,7 @@
                     [
                         38,
                         72,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         158,
@@ -4667,12 +4663,12 @@
                     [
                         176,
                         196,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         216,
                         251,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         468,
@@ -4721,7 +4717,7 @@
                     [
                         45,
                         59,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         353,
@@ -4758,7 +4754,7 @@
                     [
                         272,
                         301,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         340,
@@ -4775,7 +4771,7 @@
                     [
                         179,
                         215,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         300,
@@ -4825,7 +4821,7 @@
                     [
                         26,
                         50,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         230,
@@ -4911,7 +4907,7 @@
                     [
                         99,
                         126,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         223,
@@ -4950,7 +4946,7 @@
                     [
                         96,
                         120,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         388,
@@ -4977,7 +4973,7 @@
                     [
                         913,
                         936,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -4989,7 +4985,7 @@
                     [
                         86,
                         144,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         556,
@@ -5028,7 +5024,7 @@
                     [
                         73,
                         99,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         170,
@@ -5089,7 +5085,7 @@
                     [
                         794,
                         812,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -5181,7 +5177,7 @@
                     [
                         101,
                         122,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         272,
@@ -5213,7 +5209,7 @@
                     [
                         334,
                         363,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -5242,7 +5238,7 @@
                     [
                         0,
                         33,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         773,
@@ -5276,7 +5272,7 @@
                     [
                         404,
                         433,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -5327,12 +5323,12 @@
                     [
                         223,
                         242,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         349,
                         364,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -5344,7 +5340,7 @@
                     [
                         131,
                         152,
-                        "DIR_CALLE_ALTURA"
+                        "DIRECCION"
                     ],
                     [
                         557,
@@ -5446,7 +5442,7 @@
                     [
                         48,
                         87,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ],
                     [
                         88,
@@ -5473,7 +5469,7 @@
                     [
                         102,
                         151,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -5485,7 +5481,7 @@
                     [
                         168,
                         205,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         341,
@@ -5604,7 +5600,7 @@
                     [
                         172,
                         223,
-                        "DIR_ENTRE"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -5692,7 +5688,7 @@
                     [
                         1348,
                         1360,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -5813,7 +5809,7 @@
                     [
                         112,
                         138,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         174,
@@ -5828,7 +5824,7 @@
                     [
                         479,
                         501,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ]
                 ]
             }
@@ -5840,7 +5836,7 @@
                     [
                         7,
                         36,
-                        "DIR_LOTE"
+                        "DIRECCION"
                     ],
                     [
                         57,
@@ -5886,7 +5882,7 @@
                     [
                         58,
                         76,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         435,
@@ -5994,7 +5990,7 @@
                     [
                         322,
                         399,
-                        "DIR_OTROS"
+                        "DIRECCION"
                     ],
                     [
                         417,
@@ -6077,7 +6073,7 @@
                     [
                         300,
                         323,
-                        "DIR_INTERSECCION"
+                        "DIRECCION"
                     ],
                     [
                         449,
