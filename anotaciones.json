@@ -8571,6 +8571,547 @@
                     ]
                 ]
             }
+        ],
+        [
+            "Venta de Lote en Saint Thomas Este, Esteban Echeverría. Lote en Venta DOBLE FRENTE, Saint Thomas Este, Canning. Amplio Lote DOBLE FRENTE de 1188m2, en excelente ubicación dentro del Barrio. Se encuentra muy próximo al ingreso de este y al area deportiva.\r",
+            {
+                "entities": [
+                    [
+                        17,
+                        34,
+                        "NOMBRE_BARRIO"
+                    ],
+                    [
+                        70,
+                        82,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        124,
+                        136,
+                        "CANT_FRENTES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote en venta con doble frente sobre Av. Cramer en Belgrano. Dimensiones: FRENTE 17,32 mts. LATERAL 33 mts. SUP. TOTAL 570 m2\r",
+            {
+                "entities": [
+                    [
+                        18,
+                        30,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        74,
+                        107,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Cuatro Parcelas en conjunto. 30 de frente x 100 fondo con frente calle calle 25 de Mayo y San Martín (dos frentes) entre Burmeister y Mosconi. sobre asfalto. con todos los servicios\r",
+            {
+                "entities": [
+                    [
+                        29,
+                        53,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        102,
+                        113,
+                        "CANT_FRENTES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "LOTE EN VILLA DEL PARQUE, CON DOBLE FRENTE POR LA CALLE ARREGUI Y OTRO FRENTE POR LA CALLE JOAQUIN V GONZALEZ.\r",
+            {
+                "entities": [
+                    [
+                        30,
+                        42,
+                        "CANT_FRENTES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote/Terreno con triple frente para desarrollo inmobiliario ubicado sobre la calle Gallardo a solo 500 metros Av. General Paz, en el barrio de Versalles, capital federal. Medidas: Frente 26,16m2 x Fondo 54,31m2\r",
+            {
+                "entities": [
+                    [
+                        17,
+                        30,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        180,
+                        210,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "EXCLUSIVO LOTE DE 1080 MT2 SOBRE AVENIDA PRESIDENTE PERON (AV. GAONA AL 900) CON UN FRENTE SOBRE GAONA DE 26 MTS.!! Zonificación: Comercial Mixta de Densidad Media (C4). F.O.T: 1.4 F.O.S: 0.6\r",
+            {
+                "entities": [
+                    [
+                        59,
+                        75,
+                        "DIR_CALLE_ALTURA"
+                    ],
+                    [
+                        81,
+                        90,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        170,
+                        180,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Excelente lote en una zona de constante crecimiento, con un perfil residencial / comercial definido por local, cocheras comerciales y unidades residenciales. Triple frente con un lateral hasta el centro de manzana, rodeado de nuevos emprendimientos residenciales y prominentes desarrollos de actividad gastronomica, como un polo en crecimiento. SUP. LOTE: 1.255 m2 FRENTE: 23,39 mts LATERAL: 55,36 mts\r",
+            {
+                "entities": [
+                    [
+                        158,
+                        171,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        365,
+                        401,
+                        "DIR_INTERSECCION"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote Triple Frente 25.98 X 44.23 metros. San Nicolás entre Galicia y Tres Arroyos Villa del Parque, Villa Santa Rita. al límite con floresta y la zona comercial de Av. avellaneda.\r",
+            {
+                "entities": [
+                    [
+                        5,
+                        18,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        19,
+                        39,
+                        "DIR_INTERSECCION"
+                    ],
+                    [
+                        41,
+                        81,
+                        "DIR_ENTRE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Excelente Lote con triple frente, de 24 mts de frente y 61 mts de fondo, representa un magnifico terreno para edificar de 1469 mts2 en pleno corazón de Villa Luro. A mts de Av. Rivadavia y Acceso a Autopista Perito Moreno. FOT= 2.50 x A / 12.50 Siendo A un número igual al ancho de la calle determinado por la dirección (en el caso que el ancho varie en la cuadra, se adoptará el valor promedio).\r",
+            {
+                "entities": [
+                    [
+                        19,
+                        32,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        37,
+                        71,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        223,
+                        236,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Casa de 3 Dormitorios, Ubicada en 50 Entre 18 y 19. la Propiedad Tiene Doble Entrada al Frente: Puerta con Garage a la Izquierda, la Entrada de la Vivienda. Puerta a la Derecha, Entrada a la Oficina.\r",
+            {
+                "entities": [
+                    [
+                        34,
+                        50,
+                        "DIR_ENTRE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Se trata de un galpón de tres frentes, ubicado sobre Av. De los Quilmes N° 1540/1550 a escasos metros del triangulo de Bernal, en zonificación R3  (permitiendo industrias de actividad inocua) de excelente acceso y de salida rápida a autopista Buenos Aires la Plata,diferentes puntos del conurbano como así también a Capital Federal.Galpón N° 1540:Implantado sobre dos lotes de terreno.En su primera mitad de 14,80 mts. x  mts. x 25,70 mts. Sup. Cubierta: 380,3.",
+            {
+                "entities": [
+                    [
+                        25,
+                        37,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        53,
+                        84,
+                        "DIR_CALLE_ALTURA"
+                    ],
+                    [
+                        408,
+                        438,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "EXCEPCIONAL TERRENO DOBLE FRENTE - 17.32 x 47.48 - Superficie 814.55 m2. UNIDAD DE SUSTENTABILIDAD ALTA - U.S.A.A. - NUEVO CÓDIGO. EN EXCELENTE UBICACIÓN DE VILLA DEVOTO - SANABRIA ENTRE TINOGASTA Y SIMBRÓN\r",
+            {
+                "entities": [
+                    [
+                        20,
+                        32,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        35,
+                        48,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        172,
+                        206,
+                        "DIR_ENTRE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "En el barrio de Caballito, a metros de la avenida Pedro Goyena, polo gastronómico del barrio, cerca del subte línea A y a cuadras del Parque Chacabuco. Situado sobre la calle Valle 1373/79, en una de las cuadras más tranquilas del barrio, arbolada y cerca de una infinidad de servicios tanto educativos, de salud como gastronómicos, entre otros. Se desarrolla sobre un lote de doble frente de 17 metros , destacándose por su calidad y funcionalidad.\r",
+            {
+                "entities": [
+                    [
+                        169,
+                        188,
+                        "DIR_CALLE_ALTURA"
+                    ],
+                    [
+                        377,
+                        389,
+                        "CANT_FRENTES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "OPORTUNUDAD DE INVERSION! LOTE 749 m² En venta lote doble frente, ubicado en calle Monseñor José Francisco Marcón 3535, La Matanza, Buenos Aires, Argentina. Localidad de San justo. Zona céntrica. Superficie total 749 m2. Frente 17.32 m. Lateral 43.3 m. Cuenta con PB mas 8 pisos. Metros cuadrados estimados vendibles, 2808 m2 y 24 cocheras en PB\r",
+            {
+                "entities": [
+                    [
+                        52,
+                        64,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        77,
+                        118,
+                        "DIR_CALLE_ALTURA"
+                    ],
+                    [
+                        221,
+                        251,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote de doble frente sobre Del Barco Centenera con un frente de 18 mts. y largo de 81 mts. Superficie Aproximada de 1501 mts2.\r",
+            {
+                "entities": [
+                    [
+                        8,
+                        20,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        54,
+                        89,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "LOTE DOBLE FRENTE - AV. JORGE NEWBERY Y AV. ALVAREZ THOMAS. Oportunidad para desarrollar edificio en altura con doble frente, cocheras y local. Superficie total: 482 m2. Frente: 17,89 m Lateral Izquierdo 28,80 m Lateral derecho: 25,50 m Fondo: 17,90 m. Ancho de calle: 22 m\r",
+            {
+                "entities": [
+                    [
+                        5,
+                        17,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        20,
+                        58,
+                        "DIR_INTERSECCION"
+                    ],
+                    [
+                        112,
+                        124,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        170,
+                        251,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "AVENIDA RIVADAVIA 5225 entre Parral y Colpayo, Barrio de Caballito. DOBLE FRENTE. FRENTE:  17,50 mts. FONDO: 43,00 mts.\r",
+            {
+                "entities": [
+                    [
+                        0,
+                        45,
+                        "DIR_ENTRE"
+                    ],
+                    [
+                        68,
+                        80,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        82,
+                        119,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Inmejorable terreno DOBLE FRENTE sobre Av. San Juan 3258/66 entre Sánchez de Loria y 24 de noviembre. 7500 metros vendibles. FRENTE TOTAL (m): 17,42 FONDO TOTAL (m): 73,55\r",
+            {
+                "entities": [
+                    [
+                        20,
+                        32,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        39,
+                        100,
+                        "DIR_ENTRE"
+                    ],
+                    [
+                        126,
+                        171,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "LOTE DE TERRENO BALDÍO Y ARBOLADO, DE 360 M2 DE SUPERFICIE, CON SALIDA A DOS CALLES. 600M DEL MAR. BARRIO DE RESIDENTES ESTABLES. 14M DE FRENTE EN AMBAS CALLES. PUEDEN CONSTRUIRSE 4 UNIDADES CON ENTRADA INDEPENDIENTE. APTO CREDITO BANCARIO\r",
+            {
+                "entities": [
+                    [
+                        64,
+                        83,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        137,
+                        159,
+                        "CANT_FRENTES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote de terreno de doble frente (17,32 m) ubicado sobre la calle Olaguer en la ciudad de lomas del mirador. Posee portón de acceso corredizo, piso de hormigón en toda la superficie y cuenta con una oficina con baño. Medidas del Lote: 17,32 m frente x 43.30 m fondo. Superficie Total: 750 m2. Zonificacion: U2b Urbano Mixto. FOT: 2,25 FOS: 0.60. Densidad: 700 Hab\r",
+            {
+                "entities": [
+                    [
+                        19,
+                        31,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        234,
+                        264,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        324,
+                        333,
+                        "FOT"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Terreno de TRIPLE FRENTE en venta, entrada por Av San Martín (doble frente) y por Miguel ángel (frente simple). La de Av San Martín tiene 17,38 de frente X 48,55 de fondo, con posibilidad de construir 4032,2 m2 vendibles distribuidos en 7 pisos.\r",
+            {
+                "entities": [
+                    [
+                        11,
+                        24,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        62,
+                        74,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        96,
+                        109,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        138,
+                        170,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Excelente lote ubicado en el barrio de Montserrat, cercano al centro, San Telmo, Puerto Madero, con variadas opciones de medios de transporte. Triple Frente para un mayor y mejor tipo de emprendimiento. SUP. LOTE: 638 m2. FRENTE: 22,64 MTS. LATERAL: 33,37 MTS. DISTRITO: CA. ALT. MAX.: 38 MTS ",
+            {
+                "entities": [
+                    [
+                        143,
+                        156,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        222,
+                        259,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote de doble frente ubicado en álvarez Thomas al 1800. SUP. VENDIBLE ESTIMADA (M2): 2171 M2 Y 12 Cocheras en PB. Datos del terreno Frente (M): 17.31 Lateral (M): 20.09\r",
+            {
+                "entities": [
+                    [
+                        8,
+                        20,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        32,
+                        54,
+                        "DIR_CALLE_ALTURA"
+                    ],
+                    [
+                        132,
+                        168,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "VENTA Terreno Frente Doble - VILLA URQUIZA Excelente terreno en venta en Nahuel Huapi entre Mariano Acha y Donado. Vendibles 2225 m2 y 20 Cocheras en PB. Cantidad de pisos 3 más 1 retiro. Factibilidad disponible\r",
+            {
+                "entities": [
+                    [
+                        14,
+                        26,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        73,
+                        113,
+                        "DIR_ENTRE"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Doble lote con frente en Av. M.Castex. Lote de 1000Mt2 sobre Avenida Castex de 10 x 60 más lote de 10 x 40 sobre Lago Mascordi, en L.\r",
+            {
+                "entities": [
+                    [
+                        79,
+                        106,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        128,
+                        132,
+                        "IRREGULAR"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Lote de Terreno (Doble Frente) 17,32 X 50 Excelente Zona. SE TRATA DE UNA PROPIEDAD VALOR TERRENO SOBRE UN LOTE DE 17 MTS DE FRENTE POR 50 MTS DE PROFUNDIDAD. IDEAL PARA CONTRUIR. INMEJORABLE UBICACION RESIDENCIAL.\r",
+            {
+                "entities": [
+                    [
+                        17,
+                        29,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        31,
+                        42,
+                        "DIMENSIONES"
+                    ],
+                    [
+                        115,
+                        157,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Terreno de 2 FRENTES en venta sobre Av San Martín - Paternal. Parcela de 17,38 de frente X 48,55 de fondo, con posibilidad de construir 4032,2 m2 vendibles distribuidos en 7 pisos.\r",
+            {
+                "entities": [
+                    [
+                        11,
+                        21,
+                        "CANT_FRENTES"
+                    ],
+                    [
+                        73,
+                        105,
+                        "DIMENSIONES"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Sobre Avenida Caseros, límite natural de los barrios de Barracas y Constitución, frente al Parque España, se ubica éste excelente terreno de 3 frentes con 45m de fondo sobre su lateral más corto y 60m en su lateral más largo. Actualmente cuenta con dos locales comerciales y 15 unidades, distribuidas entre planta baja y primer piso, todas alquiladas.\r",
+            {
+                "entities": [
+                    [
+                        141,
+                        150,
+                        "CANT_FRENTES"
+                    ]
+                ]
+            }
         ]
     ]
 }
