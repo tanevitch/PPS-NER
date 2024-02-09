@@ -52,15 +52,18 @@ def entrenar(data, filename: str):
     db.to_disk("./"+filename+".spacy")
 
 
-def particionar(data):
+def particionar(train, test):
     # entrenar(data["annotations"], "train_data")
-    train, test = train_test_split(data["annotations"], test_size=0.2)
+    train=train["annotations"]
+    test=test["annotations"]
     entrenar(train, "train_data_dir_merge")
     entrenar(test, "test_data_dir_merge")
 
 # cargar_archivos()
 train_data= json.load(open("anotaciones_merged.json", 'r', encoding='utf-8'))
-particionar(train_data)
+test_data= json.load(open("testing_merged.json", 'r', encoding='utf-8'))
+
+particionar(train_data, test_data)
 
 
 
