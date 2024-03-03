@@ -10,6 +10,7 @@ metricas = {
         "tp": 0,
         "fp": 0,
         "fn": 0,
+        "tn": 0,
         "p": 0.0,
         "r": 0.0,
         "f1": 0.0,
@@ -21,6 +22,7 @@ metricas = {
         "tp": 0,
         "fp": 0,
         "fn": 0,
+        "tn": 0,
         "p": 0.0,
         "r": 0.0,
         "f1": 0.0,
@@ -32,6 +34,7 @@ metricas = {
         "tp": 0,
         "fp": 0,
         "fn": 0,
+        "tn": 0,
         "p": 0.0,
         "r": 0.0,
         "f1": 0.0,
@@ -43,6 +46,7 @@ metricas = {
         "tp": 0,
         "fp": 0,
         "fn": 0,
+        "tn": 0,
         "p": 0.0,
         "r": 0.0,
         "f1": 0.0,
@@ -54,6 +58,7 @@ metricas = {
         "tp": 0,
         "fp": 0,
         "fn": 0,
+        "tn": 0,
         "p": 0.0,
         "r": 0.0,
         "f1": 0.0,
@@ -65,6 +70,7 @@ metricas = {
         "tp": 0,
         "fp": 0,
         "fn": 0,
+        "tn": 0,
         "p": 0.0,
         "r": 0.0,
         "f1": 0.0,
@@ -76,6 +82,7 @@ metricas = {
         "tp": 0,
         "fp": 0,
         "fn": 0,
+        "tn": 0,
         "p": 0.0,
         "r": 0.0,
         "f1": 0.0,
@@ -87,6 +94,7 @@ metricas = {
         "tp": 0,
         "fp": 0,
         "fn": 0,
+        "tn": 0,
         "p": 0.0,
         "r": 0.0,
         "f1": 0.0,
@@ -113,12 +121,12 @@ for index, row in input.iterrows():
    doc=nlp(row['descripcion'])
    for ent in doc.ents:
         respuestas[ent.label_]+= ent.text+" "
-   for respuesta, esperada, key_metrica in zip(respuestas, list(row[1:]), metricas):
+   for respuesta, esperada, key_metrica in zip(respuestas.values(), list(row[1:]), metricas):
         if respuesta == "" and esperada == "":
             metricas[key_metrica]["tn"]+=1
         else:
             if key_metrica in ["CANT_FRENTES","DIMENSIONES", "DIRECCION", "FOT", "NOMBRE_BARRIO"]:
-                correcta= nlp(respuestas[key_metrica]).similarity(nlp(esperada)) > 0.9
+                correcta= nlp(respuesta).similarity(nlp(esperada)) > 0.9
             elif key_metrica in [ "ESQUINA", "IRREGULAR", "PILETA"]:
                 correcta= True if esperada==respuestas[key_metrica] or (respuestas[key_metrica] != "" and esperada == True) else False
             
@@ -127,12 +135,12 @@ for index, row in input.iterrows():
             else:
                 metricas[key_metrica]["error"].append({
                     "contexto": row["descripcion"],
-                    "respuesta_predicha": respuestas[key_metrica],
+                    "respuesta_predicha": respuesta,
                     "respuesta_esperada": esperada
                 })
-                if respuestas[key_metrica] == "" and esperada != "":
+                if respuesta == "" and esperada != "":
                     metricas[key_metrica]["fn"]+=1
-                elif (esperada == "" and respuestas[key_metrica] != ""):
+                elif (esperada == "" and respuesta != "") or (esperada!=respuesta):
                     metricas[key_metrica]["fp"]+=1
 
 for metrica, valores in metricas.items():
@@ -160,5 +168,5 @@ for metrica, valores in metricas.items():
     metricas[metrica]["f1"] = f1_score
 
 import json
-with open('resultados.json', 'w', encoding="utf8") as fp:
+with open('resultados2.json', 'w', encoding="utf8") as fp:
     json.dump(metricas, fp, ensure_ascii=False)
