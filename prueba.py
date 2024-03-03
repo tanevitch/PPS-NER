@@ -1,5 +1,0 @@
-import spacy
-nlp= spacy.load("output-merge/model-best")
-doc= nlp("Terreno regular entre medianeras en venta ubicado en calle 13 C e/ 471 y 472 - Localidad City Bell - con acceso por calle asfaltada. Servicios de electricidad, gas natural y agua corriente. El terreno cuenta con una construcción que posee tres dormitorios con piso flotante y placares empotrados, baño completo, cocina separada con muebles sobre y bajo mesada, living comedor con hogar a leña, lavadero cubierto, cochera cubierta para un auto y descubierta para otro, jardín parquizado con pileta y parrilla. Terreno de 10 x 40 mts - 400 mts 2 totales. 130 mts 2 cubiertos. Apto crédito bancario Zona : U/R4 - Cascos Urbanos del Eje Noroeste (Ex UR 5). Corresponde a sectores urbanos consolidados. Se promueve su ocupacion con la asignacion de valores mayores de densidad respecto a otras zonas del eje Noroeste. FOS 0,5. ALTURA REFERENCIA EN NIVELES\t3. FOT COMERCIAL\t0,8. FOT RESIDENCIAL 0,8. DENSIDAD COMERCIAL\t200, DENSIDAD RESIDENCIAL\t200.")
-
-a = doc.ents
