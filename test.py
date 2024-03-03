@@ -112,7 +112,7 @@ for index, row in input.iterrows():
    }
    doc=nlp(row['descripcion'])
    for ent in doc.ents:
-      respuestas[ent.label_]+= ent.text+" "
+        respuestas[ent.label_]+= ent.text+" "
    for respuesta, esperada, key_metrica in zip(respuestas, list(row[1:]), metricas):
         if respuesta == "" and esperada == "":
             metricas[key_metrica]["tn"]+=1
