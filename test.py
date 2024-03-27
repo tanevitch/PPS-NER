@@ -1,3 +1,4 @@
+import re
 import pandas as pd
 import spacy
 
@@ -107,6 +108,32 @@ metricas = {
 input = pd.read_csv('ground_truth_75.csv', sep = '|')
 input = input.fillna("")
 
+def contiene_dos(texto):
+    patron = re.compile(r'\b(dos|doble|2)\b', re.IGNORECASE)
+    coincidencias = patron.findall(texto)
+    return bool(coincidencias)
+
+def contiene_tres(texto):
+    patron = re.compile(r'\b(tres|triple|3)\b', re.IGNORECASE)
+    coincidencias = patron.findall(texto)
+    return bool(coincidencias)
+
+def procesar_frentes(match):
+    contiene_2= contiene_dos(match.lower())
+    if contiene_2:
+        return 2
+    else: 
+        contiene_3= contiene_tres(match.lower())
+        if contiene_3:
+            return 3
+        else:
+            return 1
+
+def contar_numeros(cadena):
+    numeros = re.findall(r'\b\d+(?:[.,]\d+)?\b', cadena)
+    numeros_sin_duplicados = set(numeros)
+    return len(numeros_sin_duplicados)
+
 for index, row in input.iterrows():
    respuestas= {
        "DIRECCION": "",
@@ -120,16 +147,27 @@ for index, row in input.iterrows():
    }
    doc=nlp(row['descripcion'])
    for ent in doc.ents:
-        respuestas[ent.label_]+= ent.text+" "
+        if ent.text not in respuestas[ent.label_]:
+            respuestas[ent.label_]+= ent.text+" "
    for respuesta, esperada, key_metrica in zip(respuestas.values(), list(row[1:]), metricas):
         if respuesta == "" and esperada == "":
             metricas[key_metrica]["tn"]+=1
         else:
-            if key_metrica in ["CANT_FRENTES","DIMENSIONES", "DIRECCION", "FOT", "NOMBRE_BARRIO"]:
-                correcta= nlp(respuesta).similarity(nlp(esperada)) > 0.9
+            if key_metrica in ["DIMENSIONES", "DIRECCION", "FOT", "NOMBRE_BARRIO"]:
+                correcta= nlp(respuesta.strip()).similarity(nlp(esperada.strip())) == 1
+            elif key_metrica == "CANT_FRENTES":
+                if esperada == "":
+                    correcta = False
+                elif not respuesta:
+                    correcta = True if respuestas["ESQUINA"] and esperada == 2 else False
+                else:
+                    correcta = procesar_frentes(respuesta) == int(esperada) 
+
             elif key_metrica in [ "ESQUINA", "IRREGULAR", "PILETA"]:
                 correcta= True if esperada==respuestas[key_metrica] or (respuestas[key_metrica] != "" and esperada == True) else False
-            
+                if key_metrica == "IRREGULAR" and respuesta == "":
+                    correcta =  contar_numeros(respuestas["DIMENSIONES"]) > 2
+
             if correcta:
                 metricas[key_metrica]["tp"]+=1
             else:
@@ -168,5 +206,5 @@ for metrica, valores in metricas.items():
     metricas[metrica]["f1"] = f1_score
 
 import json
-with open('resultados2.json', 'w', encoding="utf8") as fp:
+with open('resultados.json', 'w', encoding="utf8") as fp:
     json.dump(metricas, fp, ensure_ascii=False)
