@@ -118,37 +118,95 @@ def contiene_tres(texto):
     coincidencias = patron.findall(texto)
     return bool(coincidencias)
 
-def procesar_frentes(match):
-    contiene_2= contiene_dos(match.lower())
-    if contiene_2:
-        return 2
-    else: 
-        contiene_3= contiene_tres(match.lower())
-        if contiene_3:
-            return 3
-        else:
-            return 1
+def procesar_frentes(frentes_predichos):
+    frentes_en_numeros= []
+    for match in frentes_predichos:
+        contiene_2= contiene_dos(match.lower())
+        if contiene_2:
+            frentes_en_numeros.append(2)
+        else: 
+            contiene_3= contiene_tres(match.lower())
+            if contiene_3:
+                frentes_en_numeros.append(3)
+    else:
+        frentes_en_numeros.append(1)
 
+    return max(frentes_en_numeros)
+
+def get_numeros(cadena: str):
+    return re.findall(r'\b\d+(?:[.,]\d+)?\b', cadena)
+     
+def procesar_fot(predichos: list):
+    numeros = get_numeros(" ".join(predichos))
+    if contar_numeros(" ".join(predichos)) == 1:
+        unidad = re.search(r'\b(m2|mts2|mt2)\b', " ".join(predichos))
+        if unidad:
+            return " ".join(set(numeros))+" "+unidad.group()
+        
+        return " ".join(set(numeros))
+    else: 
+        if len(predichos) == 2:
+            result = predichos[0]+". "+predichos[1]
+            result = result.replace("Res.", "residencial:")
+            result = result.replace("Com.", "comercial:")
+            result = result.replace("Fot", "FOT")
+            result = result.replace("fot", "FOT")
+            return result
+        else:
+            result= "".join(predichos).rstrip(".")
+            result = result.replace("Fot", "FOT")
+            result = result.replace("fot", "FOT")
+            return result
+    
+def procesar_irregular(predichos):
+    for predicho in predichos:
+        if "irregular" in predicho.lower(): 
+            return True
+        patron = re.compile(r'\b(triangular|martillo|trapecio)\b', re.IGNORECASE)
+        coincidencias = patron.findall(predicho)
+        if bool(coincidencias):
+            return True 
+    else:
+        return ""
+    
 def contar_numeros(cadena):
     numeros = re.findall(r'\b\d+(?:[.,]\d+)?\b', cadena)
     numeros_sin_duplicados = set(numeros)
     return len(numeros_sin_duplicados)
 
+
+def procesar_medidas(predichos: list):
+    mejor_match = max(predichos, key=len)
+    medidas = ""
+    for numero in list(map(str, get_numeros(mejor_match))):
+        medidas+= numero+" x "
+    return medidas.rstrip(" x")
+
 for index, row in input.iterrows():
    respuestas= {
-       "DIRECCION": "",
-       "FOT": "",
-       "IRREGULAR":"",
-       "DIMENSIONES": "",
-       "ESQUINA": "",
-       "NOMBRE_BARRIO":"",
-       "CANT_FRENTES": "",
-       "PILETA": ""
+       "DIRECCION": [],
+       "FOT": [],
+       "IRREGULAR": [],
+       "DIMENSIONES": [],
+       "ESQUINA": [],
+       "NOMBRE_BARRIO": [],
+       "CANT_FRENTES": [],
+       "PILETA": []
    }
    doc=nlp(row['descripcion'])
    for ent in doc.ents:
         if ent.text not in respuestas[ent.label_]:
-            respuestas[ent.label_]+= ent.text+" "
+            respuestas[ent.label_].append(ent.text)
+
+   respuestas["DIRECCION"]= max(respuestas["DIRECCION"], key=len) if respuestas["DIRECCION"] else ""
+   respuestas["FOT"]= procesar_fot(respuestas["FOT"]) if respuestas["FOT"] else ""
+   respuestas["IRREGULAR"]= procesar_irregular(respuestas["IRREGULAR"]) if respuestas["IRREGULAR"] else ""
+   respuestas["DIMENSIONES"]= procesar_medidas(respuestas["DIMENSIONES"]) if respuestas["DIMENSIONES"] else ""
+   respuestas["ESQUINA"]= True if respuestas["ESQUINA"] else ""
+   respuestas["NOMBRE_BARRIO"]= max(respuestas["NOMBRE_BARRIO"], key=len) if respuestas["NOMBRE_BARRIO"] else ""
+   respuestas["CANT_FRENTES"]=procesar_frentes(respuestas["CANT_FRENTES"]) if respuestas["CANT_FRENTES"] else ""
+   respuestas["PILETA"]= True if respuestas["PILETA"] else ""
+
    for respuesta, esperada, key_metrica in zip(respuestas.values(), list(row[1:]), metricas):
         if respuesta == "" and esperada == "":
             metricas[key_metrica]["tn"]+=1
@@ -158,10 +216,8 @@ for index, row in input.iterrows():
             elif key_metrica == "CANT_FRENTES":
                 if esperada == "":
                     correcta = False
-                elif not respuesta:
-                    correcta = True if respuestas["ESQUINA"] and esperada == 2 else False
                 else:
-                    correcta = procesar_frentes(respuesta) == int(esperada) 
+                    correcta = respuesta == int(esperada) 
 
             elif key_metrica in [ "ESQUINA", "IRREGULAR", "PILETA"]:
                 correcta= True if esperada==respuestas[key_metrica] or (respuestas[key_metrica] != "" and esperada == True) else False
