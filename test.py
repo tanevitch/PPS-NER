@@ -105,16 +105,16 @@ metricas = {
     }
 }
 
-input = pd.read_csv('ground_truth_75.csv', sep = '|')
+input = pd.read_csv('ground_truth_100.csv', sep = '|')
 input = input.fillna("")
 
 def contiene_dos(texto):
-    patron = re.compile(r'\b(dos|doble|2)\b', re.IGNORECASE)
+    patron = re.compile(r'\b(dos|doble|2|segundo)\b', re.IGNORECASE)
     coincidencias = patron.findall(texto)
     return bool(coincidencias)
 
 def contiene_tres(texto):
-    patron = re.compile(r'\b(tres|triple|3)\b', re.IGNORECASE)
+    patron = re.compile(r'\b(tres|triple|3|tercer)\b', re.IGNORECASE)
     coincidencias = patron.findall(texto)
     return bool(coincidencias)
 
@@ -177,9 +177,13 @@ def contar_numeros(cadena):
 
 def procesar_medidas(predichos: list):
     mejor_match = max(predichos, key=len)
+    if "martillo" in mejor_match:
+        return mejor_match.replace(" mts", "")
+
     medidas = ""
     for numero in list(map(str, get_numeros(mejor_match))):
         medidas+= numero+" x "
+
     return medidas.rstrip(" x")
 
 for index, row in input.iterrows():
@@ -200,11 +204,13 @@ for index, row in input.iterrows():
 
    respuestas["DIRECCION"]= max(respuestas["DIRECCION"], key=len) if respuestas["DIRECCION"] else ""
    respuestas["FOT"]= procesar_fot(respuestas["FOT"]) if respuestas["FOT"] else ""
-   respuestas["IRREGULAR"]= procesar_irregular(respuestas["IRREGULAR"]) if respuestas["IRREGULAR"] else ""
    respuestas["DIMENSIONES"]= procesar_medidas(respuestas["DIMENSIONES"]) if respuestas["DIMENSIONES"] else ""
+   respuestas["IRREGULAR"]= procesar_irregular(respuestas["IRREGULAR"]) if respuestas["IRREGULAR"] else ""
+   respuestas["IRREGULAR"]= True if contar_numeros(respuestas["DIMENSIONES"]) > 2 else ""
    respuestas["ESQUINA"]= True if respuestas["ESQUINA"] else ""
    respuestas["NOMBRE_BARRIO"]= max(respuestas["NOMBRE_BARRIO"], key=len) if respuestas["NOMBRE_BARRIO"] else ""
    respuestas["CANT_FRENTES"]=procesar_frentes(respuestas["CANT_FRENTES"]) if respuestas["CANT_FRENTES"] else ""
+   respuestas["CANT_FRENTES"]= 2 if respuestas["ESQUINA"] and not respuestas["CANT_FRENTES"] else ""
    respuestas["PILETA"]= True if respuestas["PILETA"] else ""
 
    for respuesta, esperada, key_metrica in zip(respuestas.values(), list(row[1:]), metricas):
@@ -214,15 +220,14 @@ for index, row in input.iterrows():
             if key_metrica in ["DIMENSIONES", "DIRECCION", "FOT", "NOMBRE_BARRIO"]:
                 correcta= nlp(respuesta.strip()).similarity(nlp(esperada.strip())) == 1
             elif key_metrica == "CANT_FRENTES":
-                if esperada == "":
-                    correcta = False
-                else:
+                if esperada:
                     correcta = respuesta == int(esperada) 
+                else: 
+                    correcta = respuesta == esperada
 
             elif key_metrica in [ "ESQUINA", "IRREGULAR", "PILETA"]:
-                correcta= True if esperada==respuestas[key_metrica] or (respuestas[key_metrica] != "" and esperada == True) else False
-                if key_metrica == "IRREGULAR" and respuesta == "":
-                    correcta =  contar_numeros(respuestas["DIMENSIONES"]) > 2
+                correcta= True if esperada==respuestas[key_metrica] else False
+
 
             if correcta:
                 metricas[key_metrica]["tp"]+=1

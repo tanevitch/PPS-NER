@@ -29,11 +29,11 @@ def entrenar(data, filename: str):
 def particionar(train, test):
     train=train["annotations"]
     test=test["annotations"]
-    entrenar(train, "train_data_dir_merge")
-    entrenar(test, "test_data_dir_merge")
+    entrenar(train, "train_data_dir_sep")
+    entrenar(test, "test_data_dir_sep")
 
-train_data= json.load(open("anotaciones_merged.json", 'r', encoding='utf-8'))
-test_data= json.load(open("testing_merged.json", 'r', encoding='utf-8'))
+train_data= json.load(open("anotaciones.json", 'r', encoding='utf-8'))
+test_data= json.load(open("testing.json", 'r', encoding='utf-8'))
 
 particionar(train_data, test_data)
 
