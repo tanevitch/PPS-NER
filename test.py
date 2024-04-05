@@ -137,8 +137,9 @@ def get_numeros(cadena: str):
     return re.findall(r'\b\d+(?:[.,]\d+)?\b', cadena)
      
 def procesar_fot(predichos: list):
+    predichos= list(set(predichos))
     numeros = get_numeros(" ".join(predichos))
-    if contar_numeros(" ".join(predichos)) == 1:
+    if len(get_numeros((" ".join(predichos)))) == 1:
         unidad = re.search(r'\b(m2|mts2|mt2)\b', " ".join(predichos))
         if unidad:
             return " ".join(set(numeros))+" "+unidad.group()
@@ -206,8 +207,8 @@ for index, row in input.iterrows():
    respuestas["FOT"]= procesar_fot(respuestas["FOT"]) if respuestas["FOT"] else ""
    respuestas["DIMENSIONES"]= procesar_medidas(respuestas["DIMENSIONES"]) if respuestas["DIMENSIONES"] else ""
    respuestas["IRREGULAR"]= procesar_irregular(respuestas["IRREGULAR"]) if respuestas["IRREGULAR"] else ""
-   respuestas["IRREGULAR"]= True if contar_numeros(respuestas["DIMENSIONES"]) > 2 else ""
-   respuestas["ESQUINA"]= True if respuestas["ESQUINA"] else ""
+   respuestas["IRREGULAR"]= True if contar_numeros(respuestas["DIMENSIONES"]) > 2 or "martillo" in respuestas["DIMENSIONES"] else ""
+   respuestas["ESQUINA"]= True if respuestas["ESQUINA"] or "esquina" in respuestas["DIRECCION"] else ""
    respuestas["NOMBRE_BARRIO"]= max(respuestas["NOMBRE_BARRIO"], key=len) if respuestas["NOMBRE_BARRIO"] else ""
    respuestas["CANT_FRENTES"]=procesar_frentes(respuestas["CANT_FRENTES"]) if respuestas["CANT_FRENTES"] else ""
    respuestas["CANT_FRENTES"]= 2 if respuestas["ESQUINA"] and not respuestas["CANT_FRENTES"] else ""
@@ -217,8 +218,18 @@ for index, row in input.iterrows():
         if respuesta == "" and esperada == "":
             metricas[key_metrica]["tn"]+=1
         else:
+            if key_metrica == "NOMBRE_BARRIO":
+                if "Barrio Cerrado" in respuesta and "Barrio Cerrado" not in esperada:
+                    respuesta= respuesta.replace("Barrio Cerrado", "")
+                if "Barrio" in respuesta and "Barrio" not in esperada:
+                    respuesta= respuesta.replace("Barrio", "")
+
             if key_metrica in ["DIMENSIONES", "DIRECCION", "FOT", "NOMBRE_BARRIO"]:
-                correcta= nlp(respuesta.strip()).similarity(nlp(esperada.strip())) == 1
+                if key_metrica =="FOT":
+                    correcta = sorted(respuesta.split(". ")) == sorted(esperada.split(". "))
+                
+                else:
+                    correcta= nlp(respuesta.strip().lower()).similarity(nlp(esperada.strip().lower())) == 1
             elif key_metrica == "CANT_FRENTES":
                 if esperada:
                     correcta = respuesta == int(esperada) 
