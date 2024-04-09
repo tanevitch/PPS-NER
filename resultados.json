@@ -1,12 +1,12 @@
 {
     "direccion": {
-        "tp": 31,
-        "fp": 6,
+        "tp": 29,
+        "fp": 8,
         "fn": 18,
         "tn": 45,
-        "p": 0.8378378378378378,
-        "r": 0.6326530612244898,
-        "f1": 0.7209302325581396,
+        "p": 0.7837837837837838,
+        "r": 0.6170212765957447,
+        "f1": 0.6904761904761905,
         "error": [
             {
                 "contexto": "Lote en venta sobre la calle Rocal al 1600 entre Mons Blois y Fraga, que mide 12.90 mts de frente por 48 mts de fondo. En el mismo se encuentra construida una casa a refaccionar de 100 m2 cub aprox, de construcción solida con techo de losa. Zonificación Rmi (FOS 0.6 FOT 0.8). Posibilidad de construir PB + Primer Nivel. Ideal emprendimiento.",
@@ -17,6 +17,11 @@
                 "contexto": "Barrio Cerrado El Paso Del Viso, Lote A22. Lote interno, 744 m2. Cercano a área deportiva y entrada del barrio. El precio publicado incluye un 35% de descuento por ser valor de preventa",
                 "respuesta_predicha": "",
                 "respuesta_esperada": "Lote A22"
+            },
+            {
+                "contexto": "Excelente propiedad sobre esquina con un frente lineal de 162 metros y salida a tres calles, Cabildo, Guatemala y Pilcomayo. Superficie de terreno 6200 m2. Contrapiso para camiones en casi su totalidad. Sectores descubiertos a reciclar. Zona industrial. Apto todo destino. FOT residencial: 2, FOT industrial: 1.5, FOS: 60% max.",
+                "respuesta_predicha": "Guatemala y Pilcomayo",
+                "respuesta_esperada": "Cabildo, Guatemala y Pilcomayo"
             },
             {
                 "contexto": "Sobre la calle Lope de Vega al 2600 frente al Club de Golf San Martín y a cinco cuadras de Gral Paz, encontramos este lote irregular de 10 metros al frente y 11.91 al fondo y de 48 metros en uno de sus lados en tanto que el restante asciende a 53 metros. Buena ubicación y excelentes medidas.",
@@ -82,6 +87,11 @@
                 "contexto": "CASA 4 AMB SUITE. PILETA + DEPTO 3 AMB BELGRANO R. Amplio living comedor con salida al patio. Patio con parrilla, piscina y lavadero. Cocina. Toilette de recepción. Cochera para un auto. Hall de distribución. Amplio dormitorio con baño en suite y vista al patio. Dos dormitorios con placard y acceso a balcón al frente. Baño completo. Antiguedad: aprox 50 años. Cochera para 1 auto. Termotanque. Horno y anafe a gas. Instalación para aire acondicionado. Calefacción por estufas de tiro balanceado. Pisos, baños e instalación eléctrica reciclados hace 7 años. Parrilla. Piscina. SUPERFICIE. Cubierta: 301 m2. Frente: 8.66 m. Fondo: 43.30 m. Sup. Terreno: 374.97 m2. GASTOS: ABL: $15.248. UBICACION: Holmberg al 1600 entre Virrey del Pino y Carbajal. En el barrio de Villa Ortúzar, con proximidad a numerosos comercios y cercanía a Av. de los Incas y Av. álvarez Thomas",
                 "respuesta_predicha": "",
                 "respuesta_esperada": "Holmberg al 1600 entre Virrey del Pino y Carbajal"
+            },
+            {
+                "contexto": "Casa sobre calle 40 e/ 22 y 23 de La Plata. Lote irregular: Frente: 9 mts. Lateral Der.: 36.85 mts. Lateral Izq.: 27.85 mts. Contra-Frente: 12.72",
+                "respuesta_predicha": "calle 40 e/ 22 y 23 de La Plata",
+                "respuesta_esperada": "calle 40 e/ 22 y 23"
             },
             {
                 "contexto": "Lote en Av. Santa Fe al 300, en la mejor zona de Alberdi apto construcción de edificio. Posibilidad de desarrollo planta baja + siete pisos, 38 unidades de vivienda y 2 locales comerciales. Metros terreno 360 m2 (9x41.25). Zona B. Edificable: 2.440 m2 aproximadamente. A demoler.",
@@ -243,13 +253,13 @@
         ]
     },
     "medidas": {
-        "tp": 58,
-        "fp": 5,
+        "tp": 57,
+        "fp": 6,
         "fn": 16,
         "tn": 21,
-        "p": 0.9206349206349206,
-        "r": 0.7837837837837838,
-        "f1": 0.8467153284671532,
+        "p": 0.9047619047619048,
+        "r": 0.7808219178082192,
+        "f1": 0.8382352941176471,
         "error": [
             {
                 "contexto": "Lote en venta sobre la calle Rocal al 1600 entre Mons Blois y Fraga, que mide 12.90 mts de frente por 48 mts de fondo. En el mismo se encuentra construida una casa a refaccionar de 100 m2 cub aprox, de construcción solida con techo de losa. Zonificación Rmi (FOS 0.6 FOT 0.8). Posibilidad de construir PB + Primer Nivel. Ideal emprendimiento.",
@@ -337,6 +347,11 @@
                 "respuesta_esperada": "37.69 x 23"
             },
             {
+                "contexto": "Ecopueblo Alvear. Único lote disponible con salida a dos calles. Manzana 18 Lote 506. Lote irregular de 315.40 m2. Cuenta con un frente al norte de 10 mts, 34.76 mts en su lado este, 11.89 en su lado sur, y 28.32 en su lado oeste.",
+                "respuesta_predicha": "10 x 34.76",
+                "respuesta_esperada": "10 x 34.76 x 11.89 x 28.32"
+            },
+            {
                 "contexto": "Frente triple a Rocha de 28.39 mts con fondo de 34.77 mts. Frente a Mazza de 12.31 mts con fondo de 50.50 mts. UF 1 en PH 3B: 584 mts. UF 2 en lote propio 366 mts. UF 3 en lote propio 674 mts. Sumatoria mts de tierra 1624 mts. Zonificación: Ex R6 con FOT 2.4 y FOS 0.6.",
                 "respuesta_predicha": "",
                 "respuesta_esperada": "28.39 x 34.77 x 12.31 x 50.50"
@@ -375,13 +390,13 @@
         ]
     },
     "barrio": {
-        "tp": 15,
-        "fp": 8,
+        "tp": 14,
+        "fp": 9,
         "fn": 10,
         "tn": 67,
-        "p": 0.6521739130434783,
-        "r": 0.6,
-        "f1": 0.6250000000000001,
+        "p": 0.6086956521739131,
+        "r": 0.5833333333333334,
+        "f1": 0.5957446808510638,
         "error": [
             {
                 "contexto": "Venta de Lote en Barrio Hipódromo, La Plata. Lote sobre Avenida 38 de 328 m2 superficie, el mismo posee zonificación U/C3 (AREA URBANA/ Áreas de promoción y Corredores de Acceso Principal y Complementaria) apto para desarrollo constructivos o comerciales ya que se permiten construir hasta 6 Niveles (Fos 0.6/ Fot Res. 2; Fot Com. 2.4. Den Res. 800; Den Com. 1.600/ Premios 30% en FOT y DEN.), el mismo cuenta con una casa de 3 dormitorios, cocina comedor, baño y garage, la misma se encuentra a reciclar o demoler. Morfología irregular, medidas 7.54 x 39.82 x 9.43 mts.",
@@ -437,6 +452,11 @@
                 "contexto": "CASA 4 AMB SUITE. PILETA + DEPTO 3 AMB BELGRANO R. Amplio living comedor con salida al patio. Patio con parrilla, piscina y lavadero. Cocina. Toilette de recepción. Cochera para un auto. Hall de distribución. Amplio dormitorio con baño en suite y vista al patio. Dos dormitorios con placard y acceso a balcón al frente. Baño completo. Antiguedad: aprox 50 años. Cochera para 1 auto. Termotanque. Horno y anafe a gas. Instalación para aire acondicionado. Calefacción por estufas de tiro balanceado. Pisos, baños e instalación eléctrica reciclados hace 7 años. Parrilla. Piscina. SUPERFICIE. Cubierta: 301 m2. Frente: 8.66 m. Fondo: 43.30 m. Sup. Terreno: 374.97 m2. GASTOS: ABL: $15.248. UBICACION: Holmberg al 1600 entre Virrey del Pino y Carbajal. En el barrio de Villa Ortúzar, con proximidad a numerosos comercios y cercanía a Av. de los Incas y Av. álvarez Thomas",
                 "respuesta_predicha": "",
                 "respuesta_esperada": "Belgrano R"
+            },
+            {
+                "contexto": "Espectacular casa quinta en Barrio El Rodeo en La Plata. Acceso sobre ruta 215. muy buen entorno barrio familiar semi cerrado. la propiedad esta desarrolada sobre 4 lotes de 20 x 50 cada uno. la casa esta situada sobre dos lotes es de tipo chalet en una planta y consta de gran estar comedor con vista hacia la piscina",
+                "respuesta_predicha": "Barrio El Rodeo en",
+                "respuesta_esperada": "Barrio El Rodeo"
             },
             {
                 "contexto": "Barrio Cerrado La Elisa importante propiedad desarrollada en una planta. Amplio living comedor con salida a la galería con vista a la piscina. Dos dormitorios, el principal con vestidor y baño en suit, playrom o tercer dormitorio. Dependencias de servicio con dormitorio y baño privado, lavadero. y cocina comedor. Cochera cubierta para dos vehículos.",
