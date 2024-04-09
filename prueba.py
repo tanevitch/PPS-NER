@@ -4,7 +4,7 @@ import spacy
 
 nlp= spacy.load("output-merge/model-best")
 
-text = "Lote con mejoras (casa a refaccionar) 8.77 x 26.23 + martillo, sup. total 226 mts2. Todos los servicios. FOS 0.6. FOT 1.6. Zonificación RTMA. Escritura a cargo del comprador."
+text = "Venta de lote en Flores, Capital Federal. GRAN PROYECTO INMOBILIARIO POSIBLE. Frente 8.66 x fondo 38.1 m2 en Flores CABA. USAA (C3II). Sobre Avenida Directorio esquina Avenida San Pedrito. Gran flujo vehicular y peatonal"
 
 ents= nlp(text).ents
 print(set([ent.text for ent in ents]))
